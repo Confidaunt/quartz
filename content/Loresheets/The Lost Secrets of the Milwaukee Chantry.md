@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: The Lost Secrets of the Milwaukee Chantry
+Requirements:
+Source: Let the Streets Run Red
+---
+The Tremere of Milwaukee were once one of the most exclusive coteries in the United States. Their sole purpose was to unravel the secrets of the strange mystical “Null Zone” near Marquette University, where magic does not function (see p. XX). Then Carna abandoned Milwaukee on the eve of a Sabbat invasion, and her fellow chantry members, Victor and Dr. Mortius, disappeared soon after. The Tremere have not reestablished their presence in Milwaukee, leaving their Chantry’s secrets vulnerable to outsiders. Kindred from Chicago and beyond flock to Milwaukee to uncover its occult secrets before the Tremere return. Karl Schrekt is assembling an elite coterie to reestablish the Milwaukee Chantry before Carna and her allies can do the same. Interested parties race against time to recover whatever they can before their window closes forever. LORE
+
+• Carna’s Primogen Files: While nominally apolitical, Carna managed to collect a significant amount of information about her fellow Kindred during her tenure as Primogen. You have access to Carna’s Primogen Files and gain a bonus die on all Politics rolls involving the Kindred of Milwaukee.
+
+•• Abandoned Real Estate: Carna and Victor maintained numerous havens throughout the wealthier areas of Milwaukee. Your search uncovers one such haven, providing you with access to a two-dot Haven in Milwaukee, equipped with a two-dot Occult Library (Carna) or two-dot Hidden Armory (Victor), and potential clues to the location of additional havens or Tremere secrets (Storytellers discretion). Tremere agents are certain to follow, so take up permanent residence with extreme caution.
+
+••• Victor’s Grimoire: Victor was the deadly enforcer of the Milwaukee Tremere and had access to a potent array of unique rituals. You have located Victor’s Grimoire and cache of occult rituals. Subject to Storyteller’s discretion, Blood Sorcerers may immediately learn one of the rituals located in Appendix II: Tremere Rituals of Milwaukee and have a roleplaying justification to learn additional rituals from Appendix II through the standard expenditure of time and experience. Non-Tremere are hunted mercilessly for mere possession of this knowledge.
+
+•••• Objects of Desire: You have uncovered the subject of Tremere study in Milwaukee, a strange “Null Zone” where magic does not function, centered on Marquette University. Tremere records indicate that objects of incredible power are located somewhere in the zone and may be possible to recover, but opposition from Clan Tremere, Lupines, and/or Magi, is extremely likely.
+
+••••• Dr. Mortius’s Haven: You have located Dr. Mortius’s haven, a “haunted” house near Marquette University. It is a three-dot haven with an awe-inspiring, yet utterly disorganized, occult library. The library grants you a three-dot bonus to all Academics and Occult skill checks and is filled with a wide range of other secrets. At the Storyteller’s discretion, these secrets might include access to Blood Sorcery, innocuous magic items, information about Milwaukee’s magical “Null-Zone,” theories on ancient Kindred in Lake Michigan, and even a copy of “The Book of the Grave-War” — although missing half a page or so. At the Storyteller’s discretion, Mortius’s haven may contain a variety of mundane and mystical defenses to penetrate prior to entry.

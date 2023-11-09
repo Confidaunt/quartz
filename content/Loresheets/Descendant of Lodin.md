@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Descendant of Lodin
+Requirements:
+Source: Chicago By Night
+---
+Before Lodin came to power, one thing was true: He was not the only Ventrue in the city, only the most ruthlessly ambitious, the one who seized opportunity when it presented itself and claimed a throne for himself. After Lodin came to power, this was also true: He systematically eliminated any who might grow into a significant challenge to his claims of praxis, particularly the members of his own clan whom, rightly or wrongly, he considered primary threats instead of potential allies. He ruled for decades, siring a series of lieutenants to enact his will and solidify his control over the domain he had claimed, permitting those lieutenants to sire broods of their own as they, and he, deemed necessary. Lodin is gone now, pulled down by treachery and inhuman savagery, but his legacy lives on in those that carry his bloodline — both of the childer he sired once he came to his throne and those he sired before the tides of conflict washed him up in Chicago. LORE
+
+• Baby of the Family: You are the (current) youngest member of the lineage, Embraced within the last decade and still young enough to be treated with some degree of indulgence while you learn the ropes — and pretty much every Ventrue you encounter thinks they have something useful to teach you. With other members of your clan in Chicago, you always have a Mawla rating of one dot.
+
+•• Responsible Middle Childe: You are a steadfast and proud member of Lodin’s wide bloodline, just coming into your own power and responsibilities. Due to your lineage and position, other Kindred of similar age and Generation to you look to you for leadership. With them you always carry a minimum of Status (••).
+
+••• Black Sheep of the Family: You are a descendant of Lodin…and you don’t like it one little bit. You have split with the rest of the late Prince’s consanguinity in some dramatic way: running off to join the Anarchs, publicly siding with the (dis)loyal opposition in political matters affecting the stability of your bloodline’s rule, turning into the world’s worst and least appeasable Herald. You have a little bit of dirt on every one of Lodin’s childer. The Storyteller will reveal a secret about any one of them you encounter, once per story.
+
+•••• Like Sire, Like Childe: Like your ancestor, you are a virtually unkillable cockroach of a vampire, capable of taking anything that unlife throws at you and turning it, if not into gold, then at least a solid shot at survival. Add two dice to your dice pools when making tests to avoid physical or supernatural injury outside of direct physical conflict.
+
+••••• Long-Lost Relative: Lodin had an unlife before he came to Chicago and your existence is proof of that fact: You are the descendant of one of the childer he sired in the years between his departure from Veracruz and his arrival in Chicago, when he was a rootless and pragmatically unsupervised wanderer. Your arrival has sent a shockwave through the city and now you are among the most sought-after of its residents, enjoying Status (••••) among Ventrue and court officials, the attention of every social gadfly in Chicago, and a definite seat at the Prince’s table. 

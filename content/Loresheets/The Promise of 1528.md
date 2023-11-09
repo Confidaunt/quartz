@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: The Promise of 1528
+Requirements:
+Source: Cults of the Blood Gods
+---
+After the Giovanni engineered the fall of the Cappadocians (or so they thought), the up-andcoming Camarilla expressed concerns about the so-called “Devil Clan.” The purge of the Cappadocians entered full force soon after the Anarch Revolt, and the Kindred of the Camarilla were worried that this was more of the same. With the upstart Anarchs forming into what would become the Sabbat, the Camarilla couldn’t afford a war on yet another front. So, Augustus Giovanni and the Inner Circle of the Camarilla met in Venice in 1528, and signed an agreement. The problem is, no one really knows what’s in the agreement. For years, all that was known was that the Giovanni had some degree of autonomy in Camarilla domains, and that the clan was given ownership of the city of Venice (in exchange for the Inner Circle being allowed to hold their meetings there). After the Family Reunion, however, an additional detail has been revealed: The Promise has a limit of 500 years, meaning it will expire in 2028. Both the Camarilla and the Hecata are scrambling to find out the details of the agreement, as well as the consequences once it expires.
+
+• Legal Scholar: You are an active student of the Promise. You don’t know much, but that’s more than most Kindred know. Even the fact that you know such a document exists gives you leverage. In legal disputes with Camarilla Kindred or members of the Hecata, you gain two dice on Persuasion checks.
+
+•• Scrap of Information: You saw a scrap of a transcript of the Promise once. A lot of forgeries have circulated among the Kindred over the centuries, but you’re reasonably sure this one is genuine. This makes you a hot commodity among other Kindred who hunger to know what’s in the Promise. Once per story, if you allow Kindred access to your notes on the Promise fragment for research, you gain a temporary dot in Contacts, Herd, Influence, or Resources for the remainder of the story, and may call in a major boon (see Vampire: The Masquerade p. 315) from the vampire in future.
+
+••• Tick Tock: You know, or believe you know, the consequences of allowing the Promise to expire, and they aren’t good. Once per story, you can give advice to members of your local faction (the Camarilla court if you are a Camarilla Kindred, or the local family if you are Hecata) and expect to be taken seriously. You will get an audience, and two automatic successes on any rolls which leverage your knowledge during the meeting.
+
+•••• Faulty Memory: You read the Promise once, but for some reason you can never recall the text in full, even if you have advantages or powers that would normally allow you to remember things or uncover buried memories. But once in a while, snippets surface to help you at just the right time. Once per story, you can add three dice to an appropriate roll where memory of the Promise would help you.
+
+••••• Signatory: You are directly related to one of the signatories of the Promise (or you are a signatory yourself). Once per chronicle, you can leverage your knowledge of the Promise to force a Camarilla Prince or a Hecata anziani to permanently change a ruling or local law in your favor, using your knowledge of the Promise to give you political clout. However, you must decide why you are unable to ever speak of the details of the Promise — perhaps it’s a thaumaturgical compulsion, the spirit of a loved one threatened with eternal torment, or a lot of Ventrue Dominate.

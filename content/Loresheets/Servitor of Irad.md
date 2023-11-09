@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Servitor of Irad
+Requirements:
+Source: Cults of the Blood Gods
+---
+According to the Book of Nod, Irad the Strong was the third childe of Caine, and he served as his sire’s enforcer and military leader in the First City. The Kindred of the Servitors of Irad seek to emulate that mythological vampire, who is said to have pledged to serve the Antediluvians in all things before his kin or his childer destroyed him. They hope that, if they spend their existence showing they serve the Antediluvians, they will be spared when the ancients rise. Irad believed it, but received the revelation too late to preserve himself. The cult doesn’t actually have any contact with the Third Generation, but they assume that the Antediluvians would want the elders of Kindred society to be weak and divided. As such, they infiltrate any vampiric organization they can find — Camarilla cities, Anarch gatherings, and even other cults — to sow dissension and shatter fragile alliances. And now you’re one such deep cover member. You’re cut off from the other members of your cult, trying to enact a hazily-understood plan set down by mythological figures with whom you have no direct contact, with the knowledge that if any other vampire ever found out, you’d be immediately and painfully killed. But you have faith, and that’s enough.
+
+• Shield of Irad: You can’t do the work of the Antediluvians if you get discovered by others. Luckily, you have a lot of experience shielding your true intentions from the gaze of outsiders. You gain an additional die on rolls involving lying to other Kindred.
+
+•• Sword of Irad: Sometimes you must act decisively in the name of the Third Generation, and that conviction adds additional strength to your act. Once per story, you can add three dice to a roll that is integral to your cult’s plans.
+
+••• Know the Will of the Ancients: You are firmly convinced you know the will of the Antediluvians. Perhaps you even hear their voices in your head, or gain prophetic dreams from them. As long as you are a member of the cult, you can take an additional Conviction that is directly related to the goals of your infiltration (your membership in the cult acts as your “touchstone” for the purposes of this Conviction). If you infiltrate a new group, you can change your Conviction to reflect the new assignment.
+
+•••• Do the Will of the Ancients: All actions are in service to the Third Generation, the thirteen vampires that will some day rise and destroy the world. There is nothing you won’t do to fulfill that goal, and you have devoted your entire existence to it. The blood you have inherited from your clan founder is secondary to this higher purpose. Your clan Bane can be ignored once per story while you are a Servitor of Irad.
+
+••••• Kill Thy Brother: When the Third Generation eventually rise, you know that most of Caine’s errant childer will be destroyed. So, killing another vampire in the name of the Antediluvians just makes their job a little easier. Once per story, when using a weapon or power that inflicts Aggravated Health damage on a vampire, you gain two additional dice to your attack, and don’t need to roll to resist frenzy if that weapon or power involves fire.

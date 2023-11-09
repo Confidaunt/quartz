@@ -1,0 +1,22 @@
+---
+LoresheetID: 
+Name: St. Paul Local
+Requirements:
+Source: Winter's Teeth
+---
+
+Built upon native Dakota land, the kine have their various pseudonyms for it: Imnizaska, the Saintly City, the "Pig's Eye", and the Last City of the East. That final nickname is particularly true for the city's Kindred, who view St. Paul as the last bastion of American Camarilla power before one reaches the lupine-dominated Rockies and the chaotic battlegrounds of the so-called Anarch Free States. Of late, even its sister city of Minneapolis has become more and more defiant of the Camarilla authority. Nevertheless, those who claim praxis over St. Paul tend to claim the title happily: "Prince of the Twin Cities."
+
+To many within the Ivory Tower, St. Paul is little more than a bourgeois pretender; an up-jumped satellite domain to the realm of Chicago. But for those who have dwelled there, through the decades and centuries, St. Paul represents everything that Clan Toreador holds dear. From its Gallic origins, to the thriving (if humble) local arts scene, the Clan of the Rose fancy themselves as the bringers of culture and civilization to a raucous American frontier. 
+
+For the past century, the monarch of St. Paul has been Prince Samantha Merrain--a Toreador elder of seemingly ancient origins. Though her true age and generation are a closely guarded secret, Merrain has seemingly avoided the siren call of the Beckoning. A beloved protector of arts and culture to some--a spoiled, vapid tyrant to others--Merrain's direct influence over Minneapolis has waxed and waned with the tenacity of the local Anarch movement, yet her hold over St. Paul is all but absolute.
+
+• Dirty Boot: If there is anything that Prince Samantha values, it's talent. Those who are useful for furthering the Prince's goals often find themselves awash in the superficial praises from Merrain and her court. However, word travels fast between the Twin Cities, and those who may find themselves celebrated in St. Paul may be marked with suspicion elsewhere. You gain one rank ( ) of Status (Camarilla) within the domain of St. Paul, however you gain the Flaw Shunned (Anarchs) when in the borders of Minneapolis.
+
+•• The Caves: An open secrets to locals, the man-made caves located underneath the otherwise innocuous Wabasha Street have played host to miners, mushroom farmers, bootleggers, and nightclubs throughout the years. Suffice it to say, their subterranean location has made them the ideal haven for Kindred, and many an Elysium has been held in the spacious, sandstone dancehall carved into the underground tunnels. As one of the denizens of the caves, you gain Haven ( ) with the merits of Postern( ) and Luxury.
+
+••• Criminal History: Though the age of Prohibition and gangsters may be over, organized crime still finds a foothold in St. Paul. From Babyface Nelson, to John Dillinger, to Machine Gun Kelly, you represent a heritage of underworld culture that lives on to the modern nights. You gain a +2 dice bonus to all Streetwise rolls made to gather information on local criminal activity, and a specialty of your choice in Larceny.
+
+•••• Courtier: Those who know how to cater to a Toreador Prince's whims have learned to make themselves not only little worker bees, but beautiful social butterflies. You gain the specialty Etiquette (High Society) and may add +2 dice to any Social Conflict roll made within an Elysium or Courtly setting once per session. 
+
+••••• Dual Citizenship: Perhaps your service to Prince Merrain has been so subtle as to not attract the ire of your fellow Kindred across the river. Or, perhaps you've become so well-embedded as an Anarch within St. Paul that none would dare question your presence in either city. You gain a cover identity, in the form of a Mask () for the purposes of undercover traveling to whichever Twin City you do not reside. That identity may also gain two ranks of Status with either the Camarilla (for St. Paul) or the Anarchs (for Minneapolis.) Once per story, any egregious breaking of the Masquerade (or that city's Traditions) may be blamed upon that false identity (and by extension, that Sect), leaving you to suffer little to no consequences. This is an ideal strategy for both infiltrators and Agents Provocateur within both sects. 

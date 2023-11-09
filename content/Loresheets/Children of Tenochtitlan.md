@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Children of Tenochtitlan
+Requirements:
+Source: Cults of the Blood Gods
+---
+In the early sixteenth century, Spanish Giovanni met representatives of the Aztec civilization as part of the Cortes expeditions. In the city of Tenochtitlan (now part of Mexico City), these Giovanni were introduced to a massive, formalized necromantic tradition. So naturally they killed, enslaved, and converted the “heathens,” bringing them into the fold. The Giovanni called these converts pisanob, a Mayan term that roughly translates to “ghosts of the dead that walk the Earth” (the fact that the Aztecs weren’t Mayan didn’t concern the Europeans). That these vampires already had a name, a legacy, and their own beliefs mattered little to the Giovanni. Their leader, Pochtli, was still in charge of the Pisanob up through the Family Reunion. However, the family had been whittled down to a bare few remaining Kindred after the ongoing attacks by the Harbingers of Skulls, although the reasons for the attacks were unknown. Pochtli offered his unlife to the Harbingers in exchange for an end to hostilities, which the Harbingers accepted. Now, the remaining children of Tenochtitlan are deciding on a new leader, while planning their revenge.
+
+• Hiding from the Wolf: The remaining Pisanob survived because they are really, really good at hiding. You’ve learned all manner of techniques to remain out of sight of those that would hunt you… and those you would hunt. You get one extra die on any roll to hide, including via the use of Disciplines or Ceremonies.
+
+•• Ghostly Instincts: The original Kindred embraced in Tenochtitlan were extremely talented necromancers, and they have carried on a wide variety of tips, tricks, and secrets among their brethren. You’ve learned some of those secrets, which give you two additional dice on any Oblivion Ceremony roll involving the summoning, control, or destruction of ghosts.
+
+••• Forward Thinking: After years of being hunted down by the Harbingers of Skulls, you’ve learned to always plan ahead, turning potential tragedy into a triumph. Once per story, you can reroll any Skill roll. In addition, you always get one free Skill reroll in any scene in which you work against another Hecata. If the Hecata in question is a member of the Harbingers of Skulls, you get an additional success on that reroll.
+
+•••• Necromantic Prodigy: The secrets of Oblivion are yours to command, whether through study, your ancient bloodline, or secrets you have acquired from your cousins over the years. Your mastery of necromantic ceremonies is unparalleled. You get two automatic successes on any roll necessary for activating a necromantic Oblivion Ceremony.
+
+••••• Next in Line: Now that Pochtli has sacrificed himself to the Hecata’s grand plan of unity, it is time for another to step up and lead the Pisanob to future glory. You are one such individual, wielding a balance of necromantic skill and political savvy. You have an additional two dots of Status within the Hecata. Further, you have an ally among the anziani, who acts as a fivedot Mawla once every other story. (You can purchase the Mawla Background as normal to make the character a more regular mentor or patron.)

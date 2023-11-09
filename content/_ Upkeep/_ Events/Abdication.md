@@ -1,0 +1,1 @@
+The Prince [[Osmont Lamirand]] is retired. He's not doing anything and that's unacceptable. 

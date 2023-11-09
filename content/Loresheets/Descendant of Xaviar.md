@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Descendant of Xaviar
+Requirements:
+Source: Corebook
+---
+Nobody, even fellow Gangrel, listened to Xaviar the first time he spoke. It took marching into a convocation of the Camarilla’s biggest players for other Kindred to take notice of him. He spoke of interacting with one of the Antediluvians and seeing his entire coterie eaten alive by this mythological creature. He accused the Camarilla of perfidy against its members and cast aside his role of Gangrel Justicar. News travels slowly among the Gangrel, as a clan with little hierarchy and lacking an effective communication network. Slowly, Gangrel followed Xaviar out of the Camarilla, some becoming Autarkis, while more ultimately joined the Anarchs. Gangrel now share a communal guilt for their initial disbelief of Xaviar’s claims and slow reaction to his proclamation, as he met Final Death soon after. Few know if the Camarilla or some other agency slew the mighty Gangrel, but all know their ancestor was wronged. Now they take up his torch and attempt to bring the Gangrel into truth’s flickering light. 
+
+• Martyred Ancestor: Other Gangrel treat you with the respect they took too long to afford Xaviar. Despite any personal grievances, you can always find sanctuary with other Gangrel, if any are present in your current domain, at least until you insult them grievously. With them, you have two dots of Status ( ). 
+
+•• Where the Bodies Are Buried: Xaviar’s experiences with melding through earth, blood, and vitae left a mark on his lineage. Gangrel of his line can make a Resolve + Awareness test to detect whether a vampire has merged with the earth or lays torpid beneath the soil. Difficulty depends on the area you have to search. 
+
+••• Loyal Hound: You resisted the winds of change, remaining with the Camarilla despite your clan’s actions. For your loyalty, the local Camarilla Prince awarded you status, feeding rights, and territory, amounting to four dots you can distribute among Domain, Herd, and Status. Non-Camarilla Gangrel despise you, and even Camarilla vampires of other clans pity your solitude, but you guarantee yourself a voice among the Primogen, should any rebel Gangrel pass through your domain. 
+
+•••• Monstrous Bat: Xaviar’s preferred bestial form was once that of a bat, but following his encounter with the Antediluvian, he found his form capable of changing into a hybrid between human and bat. Once per story when the moon is just right, you can take the same form. This man-sized bat has an extra dot in all Physical Attributes and can glide in the air from any height. Biting in this form adds +1 Aggravated damage to mortals and vampires alike. 
+
+••••• Experienced the Antediluvian: Xaviar was not the only Gangrel to sink into the ground and find himself inside his clan founder’s vast, inhuman form. You have done the same, and the experience changed you. You are now a little mad, likely suffering from paranoia or claustrophobia. Whenever you call your encounter to mind, you feel your veins rooted to the ground, connecting to every other Gangrel in the world. Once per story, you can sense any Gangrel’s location and drain a thimbleful of vitae from them to reset your Hunger level to 2. You must be touching open ground, 

@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: The Trinity
+Requirements:
+Source: Corebook
+---
+Vampires of a certain age remind their peers and descendants of the Golden Age of Constantinople, where the Trinity of Michael, the Dracon, and Antonius held sway. These three philosophers, a Toreador, Tzimisce, and Ventrue respectively, organized and upheld the vampire utopia of Constantinople. A combination of the Crusades, a Methuselah’s mania, and Setite corruption tore the coterie apart. Ultimately, the Dream of Constantinople, in which all vampires of disparate beliefs and practices could exist in harmony, shattered. Some still cling to the dr eam and hope for the Trinity’s resurrection in some form. You may still believe the Dracon can be brought back to his former enlightenment or that one of the new trinities of Constantinople or Istanbul hold the key to the domain’s growth and revitalization. Conversely, perhaps you study the disciples of the Trinity with wary eyes, preparing to take down a colossal threat to all Traditions. 
+
+• Constantinople: Outside the Ashirra, vampire tradition refers to Istanbul as “Constantinople.” You are one of the few who know why. Constantinople represented everything possible in a city where vampires shared ideas and discussed philosophy without falling to carnage. Once per story, you can ask the Storyteller a question about Constantinople’s past and be given an accurate answer. 
+
+•• Antonius’ Architecture: Renowned for his architectural skills, both political and physical, the Ventrue Antonius built the structure that held Constantinople together. To some, he fathered the Primogen ideal. You study Antonius’ methods; you can add two dice to any Politics dice pool when making a test involving domain government. Once per story, you can mediate and calm any court debate, quashing violence with action or profundity. 
+
+••• The Dream: For a millennium, the Trinity practiced Michael’s Dream: a vision of vampire utopia. Michael encouraged all vampires in Constantinople to learn and seek enlightenment, grow distant from the Beast, and become something beyond mere predators. You are a modern exponent of the dream, recognized as a Speaker of the Dream in your city. You can add one die to any Insight dice pool when testing to gauge another’s Beast. You inspire and calm souls; once per story, you can spend a Willpower point to allow another vampire to re-roll up to three dice when resisting frenzy. 
+
+•••• The Dracon: Of the Trinity, only the Tzimisce known as the Dracon survived Constantinople’s fall. Passionate and wise, the lover of both Antonius and Michael, and spiritual guide for the Trinity, the grieving Dracon fell silent for many centuries following Antonius’ murder. Rumors whisper that the Dracon reemerges now, with unclear intent. You count yourself as one of his disciples, and likely know how to find him. He counts as a five-dot Mawla, assisting with spiritual and Discipline matters. 
+
+••••• The New Trinity: One night, Michael’s Constantinople will be reborn, and you shall assist at the birth. You know this not from fragile ego, but from certain prophecy. You, along with two others who complement your skills without mirroring them, will rebuild Constantinople in a new city – no matter what you must do. If you earned them on the path to bringing about the New Trinity, you can remove up to five Stains per story before making a Remorse test (p. 239).

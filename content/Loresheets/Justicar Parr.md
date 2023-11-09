@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Justicar Parr
+Requirements:
+Source: The Fall of London
+---
+Juliette Parr is the current Malkavian Justicar, given the authority to investigate traitors to the Camarilla, and to punish those that would flaunt or undermine its Traditions. Parr has a long-standing association with law enforcement; prior to her appointment she served as one of the Sheriffs of London. Her presence, knowledge, and charm are considerable, and her obsessive-compulsive tendencies have served her well when interrogating suspects, examining crime scenes, and poring over other important evidence. The Justicar continues to maintain a Haven in her home city of London, and she can often be found there when she is not attending Camarilla matters overseas personally. You are a confidant of Justicar Parr, serving as her eyes and ears, and given the authority to command Camarilla resources in her name. She trusts your observations and recommendations, all in the name of the greater good, protecting the Camarilla from enemies within and without.  
+
+• Information Drop: You routinely provide information to Justicar Parr, reporting on the movements and conversations of other Kindred, but sometimes you receive useful information in return. Once per story you can ask the Storyteller for a piece of information relevant to an ongoing investigation, which could be reasonably provided by the Justicar’s wider network of agents and informants. 
+
+•• Camarilla Conditioning: Beyond your personal commitment to the Camarilla, you have also received training and indoctrination that ensures your loyalty to the sect. You gain 1 die in all Willpower tests performed in the course of your duties, and you also add 1 additional die to your pool when making tests to resist any attempts to intimidate or compel you away from your duties. 
+
+••• Request Backup: You are important enough to Justicar Parr that you may call upon other Camarilla assets in her network to assist you in your work. Once each story you may call upon a 5-dot Ally to back you up for the duration of a scene. They could grant you access to places you normally cannot go, introduce you to people you would not normally meet, perform a task beyond your own expertise and experience, or simply provide physical protection or escape in a high-risk situation. 
+
+•••• Favored Protégé: You are acquainted with Juliette Parr at a personal level, and you have a shared history beyond serving the Camarilla in an official capacity. You correspond with the Malkavian often, while she trusts you implicitly, her interest comes with a certain degree of possessiveness. You may consider Parr a 5-dot Mawla, but she also makes constant demands of you. It would be unwise to upset an elder of her power and influence. 
+
+••••• Camarilla Archon: You are publicly named as an Archon serving the Camarilla under Justicar Parr, and you hold a warrant that you can present to any Camarilla Kindred to demand their cooperation in your activities and investigations. Your position taints all your interactions with other vampires for better or worse. Sycophants will try to impress you, while others may resent you or avoid you. Enemies of the Camarilla will also consider you a target to make an example of, if possible.

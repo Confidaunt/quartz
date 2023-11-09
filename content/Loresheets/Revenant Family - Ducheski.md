@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Revenant Family - Ducheski
+Requirements:
+Source: Chicago By Night
+---
+The Ducheski were once the Krevcheski, a family of scholars in Eastern Europe patronized by its nobles. The Tzimisce subjected them to years of experimentation, transforming the family into revenants, a hereditary line of ghouls born with a semblance of vampiric vitae in their veins but afflicted with a craving for the real thing. For a time, they served the clan faithfully, developing a knack for creating advanced clockwork devices for siege warfare and torture. When war broke out between the Tremere and the Tzimisce, the Krevcheski betrayed their masters, pledged fealty to the Tremere, and took their new name. They have served the clan in secret ever since, maintaining the Warlock’s libraries, sanctums, and laboratories. The family is in decline; few are permitted to continue their line and even fewer are allowed to join the clan as Kindred. At least one member of this illustrious family is at your service. Unless stated otherwise, purchasing any level of this loresheet for the first time provides the player with Retainer (•), representing the revenant. A Ducheski revenant is a ghoul built as a Weak Mortal that always has access to Auspex 1 and Blood Sorcery 1. LORE
+
+• Nourishing Blood: While a revenant’s vitae is nowhere near as potent as the Kindred, drinking it can be just as sustaining. When you feed from your Ducheski revenant, they are not subject to the Human slake penalty of your Blood Potency. Feeding from them never risks a Blood Bond. The revenant is still harmed by your feeding like a human would be.
+
+•• Personal Library: The Ducheskis hold a wealth of knowledge within their dilapidated ancestral strongholds. Your revenant has added their personal library of ancient texts to yours, increasing your understanding of the world’s mysteries. Choose two of these three Skills: Academics, Investigation, or Occult. Whenever you make a test with any Specialty in your chosen Skills, you receive one extra die, in addition to any applicable bonuses.
+
+••• Research Team: You have a tight-knit family unit of three to five Ducheski revenants in your care. You receive Retainer (••) to represent them. Once per story, when you task your research time with studying a new Ritual, their dedication and teamwork allow you to learn the Ritual in half of the usual learning time.
+
+•••• Ritual Assistant: Your Ducheski revenant has a special aptitude for the story of Blood Sorcery, and can help enhance your magical techniques. When your revenant is present and helps you prepare a known Ritual, the Difficulty of the roll to activate it is reduced by 1. If more than one Ritual Assistant is present, the Ritual pool increases by one die for every two Ritual Assistants present after the first.
+
+••••• Ducheski Invention: You own a one-of-a-kind Ducheski creation. This could be one of their infamous clockwork devices, or even a modern technological marvel designed by a revenant in your service. Give the invention a name and function, and choose a Skill. Your Storyteller will name up to three components that make its function possible. The invention is a Specialty of that Skill that provides three extra dice when the invention is used in tasks involving that Skill. If it is damaged or destroyed, any Ducheski in your service knows how to fix it, if they have all the components available. 2

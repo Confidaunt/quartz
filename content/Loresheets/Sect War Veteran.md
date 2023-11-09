@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Sect War Veteran
+Requirements:
+Source: Corebook
+---
+The Sabbat and Camarilla have ever existed at odds, but the war for North America in the 1990s and early 2000s cemented the sects as eternal blood enemies. In a move to exterminate their foes and cement their rule over the continent, the Sabbat slaughtered their way through Camarilla and Anarch domains, mercilessly slaying Kindred and revealing their powers to the kine without hesitation. The Camarilla realized it needed to take action, and it formed a strong, militant defense led by such icons as Theo Bell. Though more defensive than offensive, the Camarilla reclaimed several domains across the American South, but pockets of Sabbat control remain in a few major cities to this night. Every vampire participant has a story to tell of their involvement and the horrors they survived. 
+
+• Lore Survivor: Your domain, or the domain of a vampire close to you, was scourged during the sect war. You can recount how the Sabbat and Camarilla strategized, how they warred in the city without alerting mortals, and the names of the fallen vampires caught in the middle. Once per story, you can ask the Storyteller for a piece of information relating to the sect war in your domain. 
+
+•• Active Participant: No matter the sect, the war pulled in many vampires. Even independents served as mercenaries or suppliers for one or both sides. You have the scars to show for your participation. Your own sect may regard you as a war hero; the other as a war criminal. Take three dots of Status or Mawla to reflect your position or that of one of your comrades. 
+
+••• Trophy Kill: Many notable vampires fell in the sect war, and to the Archons and Templars participating in the war, taking down a “name” on either side became a matter of competitive pride. Whether by luck or design, you are responsible for one such vampire’s death. You may wear this badge with pride or stifle the rumors, but either way, the vitae coats your hands. Once per story, you can use this legend to bypass a contest where it might assist, just as the Storyteller can always use it to send enemies after your head. 
+
+•••• No Vampire’s Land: Kindred hit-teams on either side of the sect war ranged from domain to domain and then back across old ground as the defenders rallied. This Great War-style push-and-pull of conflict led to some vampires obsessing over domains and their hidden sanctuaries, armories, tunnel networks, and side streets. You know all the best spots in your domain and two adjacent domains for launching an ambush, hiding from attackers, restocking a militia, or making contact with mercenaries. Add two dots to your Domain’s Portillon, and add two dice to relevant Streetwise, Larceny, and Stealth pools in two neighboring domains. 
+
+••••• Sect Agitator: Some vampires exist only to cause bloodshed, and you count yourself among that number. Individuals such as Lucinda of the Camarilla and Francisco Domingo de Polonia of the Sabbat spoiled for war and were left hollow when it concluded. You know all the trigger points and the correct fuse to light in order to spark a new sect war. It may be localized to a single domain at first, but once the flames start, you can fan them to extend. Add two dice to all your pools for Social tests to inflame sectarian tension.
