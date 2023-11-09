@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: This is the landing page I guess
 ---
 
 This is a blank Quartz installation.
