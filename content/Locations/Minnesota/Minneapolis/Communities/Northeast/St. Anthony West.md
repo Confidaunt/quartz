@@ -4,7 +4,7 @@ Name: St. Anthony West
 Link: https://en.wikipedia.org/wiki/St._Anthony_West,_Minneapolis 
 Community: "[[Northeast]]"
 Locations: 
-- [Boom Island Lighthouse]]"
+- "[[Boom Island Lighthouse]]"
 - "[[Elsies]]"
 - "[[Graco]]"
 - "[[RHome]]"
@@ -16,4 +16,4 @@ Locations:
 Description:
 St. Anthony West is a neighborhood in the Minneapolis community of Northeast.
 
-!"[[MinneapolisSaintAnthonyWestNeighborhood.png]]"
+![[MinneapolisSaintAnthonyWestNeighborhood.png]]
