@@ -2,7 +2,7 @@
 LocationID: 495052
 Name: Corcoran
 Link: https://en.wikipedia.org/wiki/Corcoran,_Minneapolis 
-Community: ""[[Powderhorn]]""
+Community: "[[Powderhorn]]"
 Locations: "[[Boneshaker Books]]"
 ---
 

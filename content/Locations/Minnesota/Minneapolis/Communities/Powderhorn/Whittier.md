@@ -2,7 +2,7 @@
 LocationID: 126703
 Name: Whittier
 Link: https://en.wikipedia.org/wiki/Whittier,_Minneapolis 
-Community: ""[[Powderhorn]]""
+Community: "[[Powderhorn]]"
 Locations: 
 - "[[Hennepin History Museum]]"
 - "[[Minneapolis College of Art and Design]]"

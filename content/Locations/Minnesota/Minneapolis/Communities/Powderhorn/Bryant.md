@@ -2,7 +2,7 @@
 LocationID: 485857
 Name: Bryant
 Link: https://en.wikipedia.org/wiki/Bryant,_Minneapolis 
-Community: ""[[Powderhorn]]""
+Community: "[[Powderhorn]]"
 Locations: 
 ---
 

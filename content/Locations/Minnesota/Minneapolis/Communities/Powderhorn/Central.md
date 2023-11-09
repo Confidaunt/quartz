@@ -2,7 +2,7 @@
 LocationID: 760864
 Name: Central
 Link: https://en.wikipedia.org/wiki/Central_(neighborhood),_Minneapolis 
-Community: ""[[Powderhorn]]""
+Community: "[[Powderhorn]]"
 Locations: 
 ---
 

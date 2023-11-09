@@ -2,7 +2,7 @@
 LocationID: 149116
 Name: Lyndale
 Link: https://en.wikipedia.org/wiki/Lyndale,_Minneapolis 
-Community: ""[[Powderhorn]]""
+Community: "[[Powderhorn]]"
 Locations: 
 ---
 
