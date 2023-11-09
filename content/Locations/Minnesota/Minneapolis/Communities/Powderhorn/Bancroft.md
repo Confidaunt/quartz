@@ -2,7 +2,7 @@
 LocationID: 851474
 Name: Bancroft
 Link: https://en.wikipedia.org/wiki/Bancroft,_Minneapolis 
-Community: ""[[Powderhorn]]""
+Community: "[[Powderhorn]]"
 Locations: 
 ---
 
