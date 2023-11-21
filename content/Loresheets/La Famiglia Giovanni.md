@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: La Famiglia Giovanni
+Requirements:
+Source: Cults of the Blood Gods
+---
+Until recently, whenever an outsider Kindred thought about the Clan of Death, they pictured the Giovanni family. Their origins stretch back before the Roman Empire (when they were known as the Ioveanus or Jovians), and the entire time they’ve had their hands in Kindred affairs. The original Giovanni family knows how to play the game better than anyone, crafting an identity as “Devil Kindred” to strike the right balance of fear and respect in their rivals — and their relatives. The Giovanni family and the clan of vampires known as the Giovanni are not identical, but it was a useful fiction for centuries. However, now that the Family Reunion has caused a restructuring of the Clan of Death, the original family refuses to be left out in the cold. As much as some cousins would like to see the backside of la famiglia, the “true” Giovanni aren’t just going to stand by and let thousands of years of family history get tossed out due to some political convenience. They are the top dogs, and they’ll murder to retain that position. After all, no one fights like a family.
+
+• A Cousin’s Ear: Even if family members hate each other, the whole family lives by a certain code to share information — that’s how they’ve survived everything from the fall of the Roman Empire to the Second Inquisition. Once per session, you can ask a direct question of another member of the Giovanni family, and get a straight answer. However, you have to answer a question in return. You can also ask a favor of mortal members of the family once per story, as if you had the Allies Background at three dots.
+
+•• Faded Glamour: Being a Giovanni still means something, even if it’s not your name on the clan anymore. Old habits die hard, and the instinct to obey is still ingrained in much of the Clan of Death. Once per session, you can add one automatic success to any social roll against another Hecata Kindred, ghoul, or retainer.
+
+••• Petty Cash: The Giovanni started as merchants, and they still know the power of cold, hard cash. As one of the favored childer of the family, you have access to a substantial bank account. You get four dots to spread among the Resources and Retainers Backgrounds for free, but these dots can be pulled back by elder members of the family at any time, especially if you cross them.
+
+•••• Spectre Servant: There’s a lot the family is good at, but in particular they’re excellent at enslaving the spirits of the dead to their will. You have inherited or personally captured a spectre to act as your servant. This acts as a four-dot Effectiveness Ally, using the spectre stats in Vampire: The Masquerade, p. 377. The spectre wants nothing more than to break the leash and devour your spirit. Until then, they can be summoned once per session and will arrive within 10 hours.
+
+••••• Aspiring Anziani: You have managed to work your way through the hidden politics of the Family Reunion and come out on top. You’ve done so partially from political skill and ruthless zeal, but mostly because you know where the bodies are buried (in every sense). You get five dots of Status among the Hecata, and you can get a private audience with the Capuchin every few stories. Just don’t push your luck, or you’ll join the corpses.

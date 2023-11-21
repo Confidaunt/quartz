@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Hesha Ruhadze
+Requirements:
+Source: Anarch
+---
+Though the Ministry have largely aligned with the Anarchs in these turbulent nights, Hesha Ruhadze stands like an old rock in a stream. When asked about sectarian allegiances, the Nubian archaeologist rolls his eyes and mutters to himself. He spurns politics, referring to it as a wasted focus for creatures that might live for an eternity. His dedication is to history, the mysteries of vampire origins, and importantly, discerning their fates. All the while, he sits in at Anarch moots and listens attentively. Hesha is a willing servant of the Blood, and believes he can understand the voice of Sutekh calling from his vitae. Where this might be a mark of insanity for some vampires, Hesha’s standing among Kindred far and wide lends credence to his claims. He is still the same coolly charming man, and every word he speaks feels heavy with gravitas, but now he speaks as the herald of his god’s will. Every time he does so, it is with a smile.  
+
+• One of Hesha's Works: you own one of Hesha’s treatises on the history of Kindred existence. While the work may be controversial, and oppose the traditional Cainite mythology, it conveys one additional die on Occult based dice pools, or pools relating to vampire origins. This work may be sold in exchange for one dot of the Resources Background. 
+
+•• Something Hesha Wants: You know what Hesha currently seeks, and can access it, or already own it. This item can be used to bargain with, blackmail, or threaten Hesha, or even present to him as a gift for future favor. This artifact or piece of information conveys an additional three dice to Persuasion or Intimidation dice pools involving Hesha or his cult. It can also be sold, adding three dots to your Resources (up to five) for the duration of the story. 
+
+••• Museum of the Faithful: You possess the rare privilege of membership in one of the Ministry’s museums of vampire history. These underground treasure troves are securely guarded but contain a plethora of accessible information about legendary Cainites. You must submit a new treasure to the museum every year for continued membership and will have your access denied if you fail to do so, or ever steal from one of these Setite hoards. You gain three additional dice to all tests involving the research of vampires and vampire history for as long as you keep you membership. 
+
+•••• Blood Cult (Ministry characters only): Hesha has taught you the old ways of the Followers of Set, in which mortals and ghouls perform more than a servile role. Your cult encompasses a warrior, a priest, and a scholar, as well as willing vessels from which you feed. Three Background dots can be split between these specialized cultists, who can count as Herd or Retainers. They possess more knowledge and ability of your kind than typical servants and ghouls, giving them an additional die in all interactions with vampires. 
+
+••••• Hear the Blood Sing (Ministry characters only): Maybe Hesha taught you how to hear the words, or perhaps you accomplished the feat yourself. You hear the voice of Sutekh more loudly than you do your Beast. Through riddles, visions, and musical refrain, the Storyteller will occasionally offer you guidance from the godlike voice issuing from your vitae. Once per session, you are also able to automatically resist Frenzy, treating it as a Ministry Compulsion instead 

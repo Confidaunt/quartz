@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: The Blue Velvet
+Requirements:
+Source: Chicago By Night
+---
+The Blue Velvet opened its doors in 1972, and has been a hotspot for Kindred nightlife and politicking ever since. Located in the heart of the Rack, the club had several incarnations before its current one. An anonymous entrepreneur bought out Fantastica and immediately closed the bar’s doors for three months of extensive renovations. When it reopened, the Blue Velvet boasted four separate bars, a VIP lounge, and a dance floor big enough to handle fans of the hottest bands. It was an ambitious endeavor, and one that’s worked for nearly 50 years. The bar draws Kindred and kine alike. While mortals dance their cares away below, Cainites high above engage in a different kind of dance, moving carefully through the rhythms that control the city and its future. For decades, no one knew who owned the Blue Velvet. Rumors and speculation swirled. Most attempts to dig into the club’s financials to unearth its owner led nowhere. Only one investigator got close, in early 1987, but she disappeared right after confiding to a friend that she’d made a stunning breakthrough. Her notes and research never surfaced. In the mid-1990s, the mystery ended with the Malkavian Bronwyn’s emergence into Kindred society. Her revelation that she’d been the force behind The Blue Velvet all these years gave her an immediate in with Kindred all across Chicago, and a storefront from which to illicitly traffic blood on behalf of the Circulatory System. LORE
+
+• Est. 1972: You’ve been there since the start, and may have been familiar with some of the bars that preceded The Blue Velvet. In many ways, the club’s history is your history, and others consider you an authority on it: bands whose rise started here, Kindred rivalries that played out in the VIP lounge, if it happened at The Blue Velvet, you’ve got the skinny. Add two dice to any roll related to recalling and using the club’s history.
+
+•• Who’s Who: Everyone who’s anyone stops in at the Blue Velvet. You know them all by name, but they don’t know you’re keeping tabs on who comes and goes, who they talk to, and when they leave. Once per story, ask your Storyteller for information on a fellow club-goer’s movements. The Storyteller will tell you when the named patron was last at the Blue Velvet, how they acted, and who they were with.
+
+••• Standing Gig: Only the hottest bands play at the Blue Velvet, and its dance nights have lines stretching around the block. You’ve played or DJed at the club and appear on its calendar regularly. Once per story, when you perform at the club, choose between gaining a three-dot Resource Background (lasting until the end of the story) or a three-dot Herd from fans who attend your every performance.
+
+•••• VIP Club: Your status is well-respected at The Blue Velvet. Your fame or influence draws others to the club, and Bronwyn appreciates your patronage, acting as a four-dot Ally or Mawla. A table’s always ready for you, and you have access to a private room in the VIP lounge for meetings and feedings.
+
+••••• Backstage Pass: You are a trusted, high-level employee at The Blue Velvet. Ian Gibson relies on you for night-to-night operations, and you’re a member of Bronwyn’s inner circle. One per story, you may request and receive her aid, whether that’s via influence, financial backing, or use of the club for a private endeavor.

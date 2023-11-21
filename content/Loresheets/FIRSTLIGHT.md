@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: FIRSTLIGHT
+Requirements:
+Source: Chicago By Night
+---
+FIRSTLIGHT is a joint operation among the world’s intelligence agencies, tasked with learning about — and hunting — tonight’s vampires. Camarilla, Sabbat, or Inconnu, a Cainite’s sect doesn’t matter to the people whose directives involve killing them and dismantling their power over mortal affairs. FIRSTLIGHT’s operatives often aren’t aware the people they’re tracking down are no longer mortal, and possibly haven’t been for centuries. Most receive information portraying their targets as human terrorist cells; reports after the fact uphold that narrative. FIRSTLIGHT relies on both ultra-modern technology and old-fashioned investigation, making their nets tough to dodge. FBI agents and their expert systems monitor internet chatter for certain keywords; some calls coming in to their tip line get rerouted to FIRSTLIGHT when they might involve the so-called “Blankbodies.” Months’ worth of footage is surveilled, searching for the blurred images and shadowy shapes indicating a Lasombra’s presence. TSA agents working for FIRSTLIGHT have the authority to search cargo at O’Hare and Midway, which has made already-difficult air travel even harder for Kindred who don’t have access to private planes. LORE
+
+• Evasion Tactics: You’re familiar with some basic surveillance tactics, and know simple ways to avoid being followed or spied upon. You keep your online footprint minimal or locked down, and own a whitenoise generator, a cell-phone jammer, or a burner phone to keep from being recorded. Add one die on rolls to avoid being tailed or listened in on (Potential Skills: Drive, Stealth, Streetwise, Technology.)
+
+•• Branch Office: Maybe someone slipped up and you’ve got their scent. Maybe the military-looking types at the bar thought they were talking too low for others to hear, but your keen ears picked up their conversation just fine. Maybe you clicked their thinly disguised trap of a URL and hacked them right back. However you did it, you know where their closest base of operations is located.
+
+••• What Do They Know: You’ve intercepted some communications between agencies, whether you learned the location of a dead drop or decrypted their signal. Once per story, you may ask the Storyteller for a piece of information FIRSTLIGHT has on you or a coterie-mate that you’ve managed to seize.
+
+•••• No Records Found: Through bribes, break-ins, and a heaping dose of paranoia, you’ve managed to erase yourself from FIRSTLIGHT’s records. Your slate is clean... for now. It’s up to you to remain off of them going forward, but should you find yourself in their targets again, you know where to start to rectify the situation. Add three dice to Larceny, Stealth, or Survival rolls when handling FIRSTLIGHT operations.
+
+••••• Friend on the Inside: You’ve got someone on FIRSTLIGHT’s payroll who reports back to you. Discuss with your Storyteller whether your control over them takes the form of supernatural coercion, threats, or a hefty periodic bribe. The mole alerts you if their organization is coming after you, and once per story will commit an act of minor sabotage (destroying evidence, screwing up an operation, etc.) on your orders.

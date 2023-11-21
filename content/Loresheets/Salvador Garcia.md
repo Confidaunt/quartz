@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Salvador Garcia
+Requirements:
+Source: Anarch
+---
+Salvador Garcia is not famous as a killer of Camarilla Kindred or a reckless Masquerade breaker, yet many Princes fear his coming to their city more than any violent troublemaker. Garcia fights the war of ideas, traveling from city to city rousing up the local Anarch underclass to fight for their rights.   Garcia's role is like that of a union agitator: He talks to young licks, helps them see that they don't have to accept their miserable role in undead society and carries news from other domains. One single visit can leave ideas germinating in the mind of a city's disenfranchised, leading to the birth of a new Anarch Movement.   Originally famous as the chief ideologue of the Anarch Free States in California and the killer of the old Prince of Los Angeles, Garcia now visits his home city only rarely. Instead, he uses his extensive contacts in the Movement to travel from domain to domain, spreading the revolution and evading Camarilla forces keen to see the "undead Che Guevara" executed.   
+
+• A Way With Words: You've studied the thoughts of not just Salvador Garcia, but all well-known Anarch political ideologues. You're a veteran of the Movement's political debates and can hold your own. For this reason, you get two extra dice in any roll involving a political debate where you invoke Anarch principles.  
+
+•• Old School: You've met Garcia and advocated the ideas of abolishing Princes and establishing domains with decentralized power. This gives you cred among old school Anarchs of the California Free States generation, who kept the Movement going through the lean years before the current explosion of activity. Because of this, you have the equivalent of a three dot Mawla representing older Anarchs who like you, though they will help you only in matters of the Movement.  
+
+••• Enemy of the State: The Camarilla despises you because of your open advocacy of Anarch ideas. They attempt to discredit you by spreading bizarre rumors: You sold out your domain to strange Chinese vampires, you didn't really do the heroic acts ascribed to you, you're actually a Sabbat infiltrator, and so on. As an unintended consequence of these rumors, all attempts to find real facts about you are made at a two dice penalty to the relevant roll, and any information gained is tainted by falsehoods unless the roll is a critical win.   
+
+•••• The War of Ideas: Garcia teaches many young licks about the ideas of the Anarch Movement. Some of those ideas were formulated by him, but not all. Indeed, you once wrote down a vision of how undead society should be organized and that text has become part of Garcia's standard spiel. Because of this, you're known all across the Anarch territories and can use this fame as the equivalent of three dots of Allies in any Anarch domain.   
+
+••••• Rise Up: You know how to talk to your fellow Anarchs, and they know what you stand for. When  you call for a revolution, things will happen. Unfortunately, you have no control over what exactly will happen. Once per story you can make make a politics roll to rile the local Anarchs into action. Gauge the scale of the effect to the number of successes rolled. (three can give you a spontaneous raid on the Prince's Haven while six might starts a revolt encompassing most of the city's Anarch population).

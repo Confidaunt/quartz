@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: The Ruby Throat
+Requirements:
+Source: Trails of Ash and Bone
+---
+Atlantic City has a reputation to uphold, and for those who travel to the shore to toy with the fickle whims of lady luck, there’s no reason that death need stop the fun. Originally established in the prohibition era as a member’s only roulette club by a popular boardwalk dancing girl, the Ruby Throat became a den of powerful people wagering far more than money. Rumor has it a well-known sea facing hotel was won over a single roll one night at the Ruby Throat. During the Second World War, the location the Ruby Throat operated out of was retrofitted into a factory. The founder, now a rich woman well past her dancing years, planned to happily retire and allow the club to fade into the shadows. A local Kindred named Edith Blumenau loved both her and the marvelous club she had built far too much to allow either to leave the city, and made both a permanent fixture of the boardwalk. Note: The Ruby Throat is easily moved to any other city with a history of gambling or organized crime, and switches locations from opulent sites to flea-bitten dens. LORE
+
+• Rubbing Shoulders: You’ve sat at the table for a game or two at the Ruby Throat. You didn’t win, but you picked up a little knowledge on the other Kindred round the table. By name-dropping a significant individual around the streets of Atlantic City, you gain one die on rolls to get into places or acquire information otherwise out of your league, but pick the wrong name and it’s likely to get back to them.
+
+•• What’s in your Sleeves: Someone accused you of cheating at the Ruby Throat and you publicly put them in their place. You dealt with the situation so well, you were offered work as a bouncer. This role allows you a two dice bonus to all intimidate rolls when dealing with Kindred in the crime scene, and you can put names to faces of almost any Kindred who might frequent Atlantic City night spots.
+
+••• Chicken Dinner: A hand went your way recently and you got your choice of coveted prizes. Once per story you gain a human vessel with a Dyscrasia of your choice, to feed from as desired. Unless specified, the Dyscrasia does not fade after use. You are responsible for this retainer for the time you use them, and if anything happens to them, you will owe the house significant reparations.
+
+•••• High Roller: You’ve had a string of luck at the Ruby Throat that got attention, some even said it was unrealistic. Any existing Resources Background is increased by two (to a maximum of four), and you gain access to Herd (••) whenever you are within Atlantic City, each vessel has a resonance of your choosing. You also suffer the flaw Adversary (•), as a fellow Kindred thinks you’re gaming the house.
+
+••••• Dead Man’s Hand: You’ve been invited to play at the Johnson table, the highest risk game the Ruby Throat offers. The annual event draws spectators and is the talk of the Kindred underworld. The prizes of such an event are fabulously desirable and often unique. Winning or losing could be a matter of significant status gain, or terribly embarrassing loss. Word gets out about the players involved, and up until the game comes to pass, you benefit from Status (•••) among Kindred in Atlantic City and the ability to access any lesser games and gambits without a roll.

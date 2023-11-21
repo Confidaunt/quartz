@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Plagues of Gehenna
+Requirements:
+Source: Forbidden Religions
+---
+Vampire and disease have been intertwined since the dawn of time. It’s inevitable; the blood-drinking parasite spreads sickness with her bite, weakens her victims before the advent of illness, and in a very real way is a disease upon the heaving throng of humanity. Minor cults of Kindred who embrace this ruinous connection have emerged throughout history, but the tumultuous modern nights see many more such plaguebringers springing up than ever before. The most base and simplistic of these cults embrace disease at the most literal level, believing that vampires are the harbingers of plague upon humanity and that they must spread sickness to usher in — or finish off — Gehenna itself. More sophisticated groups like the Third Day develop elaborate nuances or justifications, connecting disease upon the kine with the Beckoning that now seizes elders, or hoping to afflict Kindred themselves through corrupting the herd upon which they feed. Whatever the reasoning, the outcome is usually the same; heaps of putrefying bodies, vampires retching up tainted vitae, and swarms of flies. It’s no wonder that most sect-aligned Kindred try to stamp out blisters as soon as possible.
+
+• Blister Marks: You’re a member of a new, loose association of Kindred keeping vigil for any signs of blisters — those Kindred who willingly or ignorantly spread disease among the kine. Whenever you succeed on a Medicine roll to examine the health of a mortal, living or postmortem, you also discern whether any disease they may have was inflicted on them by a Kindred.
+
+•• Autoclave: Fearful of becoming a disease vector, you have three dots in Herd that will remain clean and uninfected even should sickness run rampant through the local population. However, you must maintain the purity of this blood source and shepherd it carefully, which means that no one can draw upon the Herd once more than per story. If you share it with anyone, even once, you lose access to it yourself for the remainder of the story.
+
+••• Fire in the Blood: Strange diseases infected you once, bringing a delirium that wracked even your Kindred physiology with fever and filled your waking hours with bizarre phantasmagoria. While the sickness passed, it has left its mark upon you. Once per scene when you feed on a mortal and contract a disease that you could then spread on to future victims, you mend one Superficial Health damage and one Superficial Willpower damage; you also immediately become aware whenever the blood of a vessel you feed from bears infectious disease.
+
+•••• Firebreak: You’ve studied disease outbreaks in mortals and vampires alike and understand how far an infection can slither through Kindred society before being detected. You possess five dots in Influence solely for the purpose of controlling and quelling disease outbreaks among the kine that would affect the Kindred; when you exercise this Influence and succeed, you gain two dots in Status with your sect for the remainder of the story.
+
+••••• Plague Sample: In your possession is a phial of blood drawn from a sick, maddened elder while in the throes of the Beckoning. It seethes with the contagious power of a plague that will affect Kindred with lethal results. What exactly it does to vampire victims, how it spreads, and what link it has to the Beckoning is up to the Storyteller, if you are ever desperate, brave, or mad enough to unleash the disease upon your fellow undead. Loresheets 9

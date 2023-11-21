@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Bankers of Dunsirn
+Requirements:
+Source: Cults of the Blood Gods
+---
+Sometime around the 18th century, the Giovanni wanted a foothold in the markets of the New World. But all of their attempts were constantly blocked by a Scottish family of bankers who owned several shipping ventures. Impressed by their financial acumen, the Giovanni investigated bringing the family into the fold. What closed the deal was the discovery that the Dunsirn were cannibals as well as financiers. It was the perfect balance of money, depravity, and ability to keep a secret. For centuries, the relationship between the two families was clear: The Dunsirn made the money, and the Giovanni family spent it like water. Surprisingly, even though mortal members of the Dunsirn family still indulge in the occasional bit of “long pork,” the Kindred don’t show much aptitude or interest in necromantic pursuits. Prior to the Family Reunion, there was an effort to force them into learning the ways of Oblivion, but now the Dunsirns are happy to go back to what they do best: bleeding people dry. And this time, they don’t need to answer to the fucking Giovanni to do it, either.
+
+• Money Obfuscates: It’s hard to make money and not be noticed, but the Dunsirn have worked in the shadows for centuries. You’ve spread some of your family’s money around to make an alternate identity for yourself. You get two dots of the Mask Background for free, though you must maintain this Mask at least once per story.
+
+•• Money Talks: The Dunsirn find information in the most interesting places. All you have to do is spread a little money around, and people jump out of the woodwork to tell you things. Once per story, you can find information as if you had the Contacts Background with a number of dots equal to your Resources. This ability lasts for a single scene.
+
+••• Money Enhances: You always have access to the best that money can buy. Having access to quality products not only acts as a status symbol, it also makes everything a little easier. When making a roll in which you can use your own equipment, you get a bonus die to the roll.
+
+•••• Money Multiplies: All the Hecata know the Dunsirn are bankers. But most of them think of it in the abstract, as if “banker” is just a different way of saying “someone with a lot of money.” But you are (or are directly related to) a legitimate investment banker. Gain three dots (up to five) in Resources. In addition, anyone in your coterie loses the Destitute flaw (Vampire: The Masquerade, p. 193), and can purchase dots in Resources at 2 experience points per dot, instead of the usual 3.
+
+••••• Money Dictates: You are the head of the Dunsirn family accounts. You have your undead finger on the pulse of the Hecata’s financial accounts. And you make sure that everyone else knows it. You gain three free dots of Status in the Hecata. In addition, once per chronicle, you can either give every Hecata in the chronicle two additional dots of Resources or remove all Resource dots from every Hecata in the chronicle. These Resources additions or removals last for a single story, and if removed, generate a chronicle-length Adversary Flaw in the form of one of the robbed vampires. 

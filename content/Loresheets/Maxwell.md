@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Maxwell
+Requirements:
+Source: Let the Streets Run Red
+---
+Maxwell’s been off the chess board a long time now. The one-time Prince of Chicago, a Brujah, might have ruled again after Lodin’s death, were it not for Kevin Jackson’s rise to power. He disappeared after that, though wise Kindred know better than to think he’s suffered his final death. In fact, Maxwell still considers himself Chicago’s Prince, and suggests Kevin Jackson’s merely keeping the throne warm. He’s gotten a better handle on the modern world these last few years and dedicated time and resources to quietly shoring up his support. He still holds sway with Chicago PD’s Internal Affairs. In recent nights, he’s focused on building up the Vanguard, a group of Camarilla based in Gary, Indiana, who are loyal to him and his play for praxis. Gary is little more than a staging ground to him, a place from which to launch his strikes against Chicago before he reclaims his throne. Maxwell’s opponents (and many of his supporters) recognize his penchant for violence. Signing on with him is a dangerous and probably bloody endeavor, but he’ll handsomely reward those who help him take Chicago. LORE
+
+• Tactician: You’ve studied Maxwell’s strategies as Prince of Chicago and sussed out some of the secrets of his rule. Add two bonus dice to an Academics, Politics, or Subterfuge roll relating to political planning or military maneuvers.
+
+•• Travelling Companion: While Kindred considered him dead after Devil’s Night, Maxwell roamed the world building up allies in other countries. One thing he learned in these hyper-surveilled modern nights is how to evade detection while travelling. You traveled with him during this time, and he’s willing to share his contacts. Once per story, you can call on Maxwell’s allies for reliable and secure transportation between cities.
+
+••• Vanguard: You’re a member of Gary’s Vanguard, trusted by Eric Sharpe and Maxwell alike. Gain Status: Gary (•••). Sharpe has granted you territory in the city, where you have a two-dot Haven and feeding rights. If not participating in Rusted Jungle (see p. XX), this lore gives you standing as a long-time, respected Kindred resident of Gary.
+
+•••• The Art of Disappearing: If your enemies think you’re dead, they stop worrying about how you’re plotting against them. Maxwell has taught you tricks for staying hidden and working from the shadows. Once per story, he’ll help you create a two-dot Mask under which you can anonymously further a goal. Alternately, he’ll help you convincingly fake the death of one of your current Masks and transfer its resources to a new identity without leaving a paper trail.
+
+••••• The Once and Future Prince: You’re one of the highly placed Kindred Maxwell is counting on in Chicago. He’s guided and financed your rise among your clan’s ranks, helped rid you of enemies, and provided you with information about the machinations of Prince Jackson and the Primogen. Gain Resources (•••••); two dots must be spent securing Maxwell’s plans, but the remaining three are yours to spend as you like. You have a list of those Kindred in Chicago who owe Maxwell boons. Once per story, you can call in a minor boon from someone on the list. Once per chronicle, you can call in a major boon. Though you may use these for any purpose that suits you, Maxwell expects you to send him an account of how you’ve spent his favors. Using them foolishly will earn the soon-to-be Prince’s ire. He’s built you up; never doubt that he can tear you back down.

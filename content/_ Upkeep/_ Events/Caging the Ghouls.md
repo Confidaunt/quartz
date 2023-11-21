@@ -1,0 +1,1 @@
+All Tremere ghouls and unattached ghouls are put into holding cells while the Prince decides next action. All unattached ghouls not present in the cells by dawn are to be destroyed.

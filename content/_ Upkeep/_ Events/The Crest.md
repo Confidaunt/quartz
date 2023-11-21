@@ -1,0 +1,1 @@
+An snap of magic traveling backwards from some unknown event that has something to do with the destruction of the Tremere Chantry. In Minneapolis, it happens at 4:49 on January 30th 2008.

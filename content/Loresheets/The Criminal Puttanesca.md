@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: The Criminal Puttanesca
+Requirements:
+Source: Cults of the Blood Gods
+---
+For a few decades, the Giovanni had a reputation as being nothing more than vampire mobsters. Savvy Hecata ancillae confronted by such ethnic stereotypes in Camarilla Elysia laugh and suggest the rumor started from too many late-night showings of The Godfather. And once the Hecata gets a chance to slip away, they call their cousins and ask what the fucking Puttanesca have done this time. The fucking Puttanesca family, as they’re often called by other Hecata, were acquired from Sicily in the 1660s as talented street hustlers — perfect for dirty, low-level jobs that the more moneyed Giovanni couldn’t be bothered to handle. Over the years, these Puttanescas leaned into the mafioso stereotypes, because you might as well be a legbreaker if you break legs for a living. After the Family Reunion, any remaining connections to organized crime have been quickly shuffled over to the Puttanescas. The anziani say it’s a reward for loyal service. But the Puttanesca know it’s a way to put all the Hecata’s embarrassing assets in one place. So if they’re going to be “the fucking Puttanesca,” that’s fine. This family knows all about beating on the little guy before you get beat on by a bigger guy. But soon they’ll be the big guy, and it’ll be everyone else that gets fucked.
+
+• Friends in Low Places: Puttanesca Kindred have close ties to the street, and usually have a few side hustles happening at any one time. It’s easy to get your hands on a little bit of cash and a little bit of muscle whenever you need it. You get two dots to spread between Allies and Resources, and you can reallocate those two dots at the start of each story. These Advantages are immediately subject to police scrutiny.
+
+•• Show Your Belly: Some members of your family survive by looking as harmless as possible to people more powerful than them. Sure, it’s not dignified, but if you can survive the night, that gives you time to get your revenge later. You get three bonus dice to rolls to convince people not to hurt, endanger, or act against you.
+
+••• Show Your Fists: On the other hand, it’s not all being pushed around. Some Puttanesca prefer to kick around those smaller than them. You need to show them who’s boss. Prick probably would’ve done something to piss you off anyway, so better to get your licks in first. Against mortals you get two bonus dice for rolls to intimidate, and your unarmed damage modifier increases by one.
+
+•••• Get the Squad Together: Occasionally you just need to get some people together for a good old ass-beating. Once per story, you can get a gang together for a brawl. This gang comprises any local Puttanesca Kindred, as well as mortals equivalent to five dots of Allies. You also get an automatic success in rolls to convince other characters that this beatdown is necessary.
+
+••••• The Don: Against all odds, you’ve kissed and kicked ass in equal measure to make your way to some amount of respect, wealth, and influence. Other Hecata might even stop insulting you to your face. You have three additional dots each in Contacts, Influence, and Resources, but they must be assigned to criminal enterprise and require careful maintenance to not draw the attention of groups such as the FBI, agents of which can become potent versions of the Enemy Flaw.
