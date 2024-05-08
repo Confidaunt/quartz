@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Archons
+Requirements:
+Source: The Chicago Folios
+---
+Archons are the bogeymen of the Camarilla, the unliving extension of their Justicar’s will. They are the watchful eye at the Anarch gathering, the fly on the Prince’s wall, and blade in the dark to all who violate the Traditions. Archons are the Camarilla’s elite guardians, inquisitors, and spies. They relentlessly prosecute all violations of the Traditions uncovered during their nightly vigil and have the authority to destroy all Kindred who stand in their way. So fearsome is their reputation that entire domains tremble at word of their passage. And tremble they should, for even the greatest Prince bends the knee in their presence. Life is hard, if not lethal, for most Archons, but the authority they wield and rewards they reap can be great. A vampire with this Loresheet is not automatically an Archon, but through narrative, is more likely to be recruited as one.
+
+• Undercover: You perform your work undercover, assuming a false identity to get close to your prey. You maintain a false identity as a minor member of the faction you are investigating and gain one bonus die to all rolls related to maintaining your cover. Additional work is needed to make your cover foolproof against intense scrutiny, but Undercover will buy you the time necessary to get your foot in the door without being killed on sight. This advantage may be purchased multiple times to represent a range of false identities.
+
+•• Watcher in the Dark: Like many Archons, you are just as formidable a scholar and investigator as you are a warrior. You have access to a vast repository of Camarilla contacts, records, and informants when prosecuting your duties. Once per game, you gain two automatic successes on any Investigation or Academics test concerning the subject of your investigation.
+
+••• Red Phone: You have a reliable way of contacting your patron Justicar. This can be via sorcerous means, trusted messenger, or almost any covert method that matches your Justicar’s particular preference. Their response to your message varies depending on their current workload and can range from silence, to providing valuable information, exerting political influence, or even deployment of further Archons. The precise game effects of Red Phone are up to the Storyteller and overuse or abuse of this ability may cause your Justicar to reconsider their choice to make you an Archon.
+
+•••• Color of Authority: Your Status as a duly appointed Archon of the Camarilla gives you sweeping powers, including the right of destruction. You may sit in, and pronounce formal judgement over, any Camarilla Kindred without retaliation from your fellow sect members. You hold the equivalent of four dots of Status in most Camarilla domains, but stand the risk of earning Adversaries if you judge other Kindred arbitrarily. Note that Archons who abuse their authority often fall victim to unfortunate “accidents.”
+
+••••• Justicar’s Blood: You have access to the potent vitae of the Justicar you serve and are authorized to use it in the line of duty. This vitae may be derived from a blood bond with your Justicar or be an award for meritorious service. Either way, you gain three bonus dice for rolls related to one of the three clan Disciplines (player’s choice) of your patron Justicar for the remainder of the night. You may use this once per chronicle. 1

@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Wauneka
+Requirements:
+Source: Chicago By Night
+---
+The Nosferatu Wauneka is one of the most well-connected Kindred in the city due to his vast whisper network on the streets. As a Nosferatu, many Kindred tend to stay away from him, fearing his monstrous physical form. He’s not the easiest to talk to, but he’ll go places most others won’t and that makes his information incredibly valuable. His network of teen runaways, young victims of sex trafficking, abused sex workers, and homeless veterans contains vast knowledge of the city’s underground. They see things most of human society doesn’t, both human and Kindred crimes that occur in the darkness of the Chicago streets. Wauneka even schooled some of them how to watch out for the things that go bump in the night. He feels connected to them, like they’re his family, and they accept him when most of “proper” society won’t. This vast network of secrets secures Wauneka’s continued survival in Chicago, and even nets him some wins politically now and then if he can give the right info to the right person. LORE
+
+• Secluded Meetup: Wauneka has decided you’re an okay enough Kindred to meet up with and have the occasional chat about what’s going down. Once per story, meet in a secluded place with Wauneka that he chooses, and he’ll dish on one secret you’re after as related through his underground whisper networks.
+
+•• Spy Paths: You’ve proven you don’t mind hanging out with the outcasts of society, and while you may switch between respect and pity for them, they make you feel welcome. Wauneka has noticed this, and so has his outsider family. Once per story they’ll allow you access to their secret pathways in order to spy on someone from a hard-to-detect vantage point. If you make a loud noise or a lot of motion, your perfect camouflage — perhaps a false wall, a shadowed ledge, or one-way mirror — loses its use.
+
+••• Insider Connections: Wauneka knows someone inside of almost every industry and business inside of Chicago. Usually they’re the people that go unnoticed, like the janitors, sanitation workers, or food workers connected to these places. Need someone on the inside? Once per story, Wauneka can hook you up with someone who can get you inside, or get you the info you need from the inside for a price. This individual counts as Retainers (••) for one session per chronicle, but will remain Contacts (•) for you from this point on if you spend the required Experience.
+
+•••• Spy Skills: You’ve spent enough time with the underground people in Chicago that you’ve begun to pick up on their subtle skills of going unnoticed. You’re friends with them, and even help care for them the way that Wauneka does. You can gain three pieces of secret information once per story, either through use of your learned spy skills or your close bonds with the underground people. You also gain free Skill Specialties in Investigation (Espionage) and Insight (Secrets).
+
+••••• Darkest Whispers: Wauneka has come to trust you like one of his family, a thing he does rarely and not without great caution. He welcomes you into his most secret places (at least as far as he lets you know), and confides in you the darkest things he learns about the Kindred in the city. You are his confidant, his friend, and trusted ally. Wauneka counts as Allies: Wauneka (•••) and his underground associates. Additionally, once per story he’ll ask your advice on what move to make to influence Chicago’s politics, and take it to make permanent change in the city.

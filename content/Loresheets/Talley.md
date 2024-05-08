@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Talley
+Requirements:
+Source: Chicago By Night
+---
+Cold, professional, and possessing a rare specialty in both bodyguarding and murdering, the Lasombra idolize Talley, while most vampires outside the Night Clan despise him. To hear him tell it, Talley was among the first Lasombra to join the Sabbat as a way of breaking the elders’ chains. Now that he’s an elder, his view hasn’t changed much. He feels a vampire can never stop punching up at unworthy masters, and these nights, it just so happens the Camarilla are better placed to do so than the degenerated Sabbat and the chaotic Anarch Movement. Never a rebel in his own right, Talley works for the highest bidder and never reneges on a contract. This code of honor, combined with a truly dry sense of humor, is all he possesses to mark him as anything other than a bloodthirsty predator. Few Kindred cross Talley and survive, and the v ampire who does feels inclined to constantly look over their shoulder. Representing an assortment of powerful Lasombra, Talley participates in talks tonight permitting Keepers into the Camarilla’s ranks. Word is, he put the flame to Lucita at the Camarilla’s command, and did so without hesitation. Unfortunately for Talley, it seems he’s soon to be hung out to dry by the very masters he’s served so diligently for centuries. LORE
+
+• Recognize the Signs: Like Talley, you have a sense of when danger approaches, and it’s time to change allegiance or flee a domain. Once per story, if an action is likely to cause a severe social backlash, the Storyteller will tell you at your request.
+
+•• Secret Communications: Talley’s mastery over the sub-channels of Kindred communication allows him to operate as a highly successful assassin, existing outside the Camarilla hierarchical chain. You know of these channels, and can claim a prominent member of the Camarilla (such as a Prince) as a threedot Mawla for use in a single session per chronicle. How you treat this contact is up to you, but blackmail or warm relations will produce different results.
+
+••• Tangled Strings: You do not fight the elders like the Sabbat or the Anarchs. Instead, you seek to manipulate the masters from beneath. You gain two bonus dice to Intelligence and Wits dice pools when seeking to determine whether you’re being manipulated. You gain an additional two bonus dice to your Social dice pool if you ever attempt to directly manipulate the person attempting to control you.
+
+•••• Trained Killer: Talley acts as your mentor in the art of killing, either because his current master requested it, or because you paid his high price yourself. Once per chronicle, Talley counts as a Mawla (••••) and can supply you with access to his transportable armory on the same night, allowing you to purchase automatic weapons, explosives, blades, and even flamethrowers if you have the cash.
+
+••••• Personal Defender: Talley is your bodyguard. You have already arranged payment, whether in cash, favors, or blood, and for the time being Talley is your loyal defender. He will accompany you anywhere you wish him to be at your side, casting no judgment and offering no counsel unless you request it. Once the contract ends at the end of the session, Talley will speak of no sins he witnessed you perpetrate.

@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Justicar Lucinde
+Requirements:
+Source: The Chicago Folios
+---
+Lucinde is one of the most formidable members of Clan Ventrue, advancing from Archon, to Alastor, to Justicar. Her role as the first Alastor, or hunter of Kindred declared Anathema by the Camarilla, led to the creation of the Camarilla’s infamous “Red List” of most wanted Kindred. As Alastor, Lucinde and her fellow Archon’s routinely went deep undercover to stalk their prey, a practice she maintains in her present role as Justicar. Named “Justicar for Unlife” in recent years, Lucinde and her agents have vanished once again into the dark underbelly of vampire society to stalk all who would challenge the Camarilla. Lucinde’s Archons and other agents frequently visit Chicago while prosecuting their duties. You might have worked directly with these agents, or even Lucinde herself at some point in her long career. You may even be an Archon or Alastor in Lucinde’s employ. Whatever the case, you stood in Lucinde’s shadow and were transformed by the experience. LORE
+
+• Snake Charmer: Lucinde bears a unique ire for members of the Ministry and knows them well. You gain one additional die for all Investigation rolls related to the Ministers.
+
+•• Patient Hunter: Lucinde’s investigation skills are legendary, skills she imparted to you. Once per story, you automatically succeed on one Investigation check related to a member of the Anathema or other Kindred who poses a threat to the day-today existence of the Camarilla. This success will not necessarily reveal the immediate location of said Kindred, but it will definitely point you in the right direction (Storyteller’s discretion).
+
+••• Legend Killer: You have destroyed, or participated in the destruction, of a member of the Red List. This fame (or notoriety) precedes you wherever you go and allows you to automatically succeed on one test per chronicle, where the tale of this event might be of assistance.
+
+•••• Lucinde’s Revenge: Lucinde has astonishing resistance to the effects of Presence. Formerly exclusive to her descendants, Lucinde has begun to instruct other Kindred in this supernatural resistance. Once per chronicle, Lucinde’s Revenge renders you immune to a single use of Presence wielded against you as long as the vampire assailing you is of equal-to or lower generation. Vampires of a higher generation than you are unaffected by Lucinde’s Revenge and can assail you regularly. Lucinde only teaches this ability to her Archons, Alastors, and chosen allies who have assisted in one of her hunts, or who have been of great service to the Camarilla.
+
+••••• Alastor: You have joined Lucinde as an Alastor and hunt Kindred on the “Red List.” You operate under deep cover and enjoy immunity from prosecution by any Prince. You report solely to the Camarilla’s Inner Circle and have a mystical mark on your right palm identifying you as an Alastor when revealing your rank and station becomes necessary. You have a two-dot Mask and have been Zeroed. Additionally, you receive three additional dice to resist all attempts to uncover your identity. Should you reveal your identity, you gain the equivalent of four-dots of Status. You have also earned the undying enmity of all who oppose the Camarilla and are in turn hunted by an Anathema the Storyteller designates as your Adversary.

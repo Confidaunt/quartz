@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Descendant of Baron Samedi
+Requirements:
+Source: Cults of the Blood Gods
+---
+The descendants of Baron Samedi are a mysterious lot, and that’s just the way they like it. Prior to the Family Reunion, they universally had horrifying, rotting countenances, often making them easily confused for Nosferatu. Prior to the Family Reunion, their control of necromancy made them seem like a bastard offspring of the Cappadocians. Prior to the Family Reunion, if the Samedi talked about The Baron at all, they were just as likely to claim he was a loa as a vampire. Now, the Hecata are one, big, happy family, right? The Samedi even got their looks back, although the rot and decay peek out whenever they feed. But these Kindred are steeped in vodou and hoodoo, and they know that everything comes with a price. Nothing comes for free. So they don silk hats, smoke fine cigars, and plan to enjoy the ride until the bill comes due. Laissez les bon temps rouler.
+
+• CSI Shit: As one of the Baron’s children, you’ve learned a few tricks about death. One of them is knowing a lot about rot, decay, and how bodies die. By carefully examining a mortal corpse you can immediately know the cause of death. If the cause of death is supernaturally concealed, you gain the ability to roll despite that.
+
+•• Exquisite Corpse: At one time, the Samedi all looked like walking corpses, but thanks to the Family Reunion, they have brand-new respectable faces. But you can go back to looking like a corpse whenever you want. What’s more, you can look like someone else’s, if you try hard enough. Once per session you may take on the appearance of a corpse you’ve touched, including all the rot and smell of its current age. To notice revealing errors, observers can make a Resolve + Awareness test against your Resolve as a Difficulty.
+
+••• Hollow Inside: Sure, you and the Baron’s children don’t look like corpses anymore, but some of you still have the advantages of being one. Like the fact that corpses can’t feel much of anything anymore. You don’t lose two dice from relevant dice pools for being physically impaired, although you still retain the penalty for impaired Willpower.
+
+•••• My Setite Friend: The Samedi have a strange relationship with the Ministry. There’s a lot of overlap in interest, and more than a few have decided to join the Ministry rather than stay with the Hecata. You have a connection with the Ministry, whether it’s one of those wayward Samedi or another Follower of Set. You can ask your friend for a favor once per story, which translates to the equivalent of three dots in appropriate Backgrounds such as Allies, Influence, and Resources.
+
+••••• The Silk Hat: No one is entirely sure who The Baron is, but they do know you have his favor, and are the next in line to his barony. Whatever that is. You’re not entirely sure what will happen if you step up and claim the silk hat of The Baron. It may be a purely political position within the Hecata, or it may invest you with fantastic spiritual powers. It’ll certainly invest you with The Baron’s enemies. Before you accept the role, however, you have the effect of Mawla at five dots, although the help comes in cryptic ways and via mysterious actions.

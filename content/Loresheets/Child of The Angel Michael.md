@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Child of The Angel Michael
+Requirements:
+Source: Cults of the Blood Gods
+---
+That which is perfect is beautiful. That which is beautiful is good. That which is good leads to utopia. This is what the Nephilim believe — that if they can embody all that is beautiful and perfect, they can recreate the utopic dream of the perfect Kindred city: Constantinople. A recent cult chided in equal parts as a Toreador fever dream and an excuse for lavish parties, the Nephilim nevertheless draws in a large share of proponents, eager to ogle the great and the good, or to find ways to improve themselves toward their personal ideal. Of course, the pursuit of ideal perfection shouldn’t be sullied by base concerns like money or power. Those that give up all that they hold dear to the Nephilim will be rewarded, becoming more perfect and more beautiful with each passing night. Besides, once the Dream of Constantinople comes to pass and all vampires are living in harmony, none of that will matter anyway. Right? You might be a seeker of beauty, or one of the beautiful yourself, but you’re definitely invested in the Dream, one way or another.
+
+• The Great and the Good: Even just being around perfect and beautiful people has its advantages, and you’ve been able to leverage your connection to fellow cultists into a few small gains yourself. You have two free dots to distribute between the Contacts, Fame, Herd, and Influence Backgrounds, though the kinds of followers you attract verge on the fanatical and dangerous to you and your loved ones.
+
+•• Outer Beauty: You make trips to the local Nephilim temple, and the accentuation of your “inner beauty” leads to outer effects. Your skin becomes clear, your hair gains luster, and your limbs become long and firm. You get the Looks Merit at four dots, even after character creation. The negative side is you have to really disguise your appearance if you want to avoid attention. Inevitably, your face will be the one witnesses remember.
+
+••• Hedonistic Pleasure: Of course, there’s no point being beautiful if you can’t enjoy it, right? Lots of long nights of excess have taught you a thing or two about having a good time, even when you’re not in a Nephilim temple. You gain two dice on any rolls to score drugs, get a date or sexual partner, or get yourself invited to a party. In addition, your exploits are legendary — take either two dots in Fame or two dots in Status.
+
+•••• Michael’s Calling: You’ve been in past cults in which the childer of Michael were worshiped to bring about the Dream. While it’s novel and convenient that all of these fringe cults have come together under one roof, as it were, you see it all as the sham it is. That won’t stop you from leveraging it for your own gain, however. Once per story, you can use all of a cult member’s appropriate Backgrounds as if they were your own.
+
+••••• Wiping Away the Stains: The most horrific and flawed parts of the Kindred are, of course, on the inside. Most of the cult claims they want inner beauty as well as outer perfection, but the sex and drugs tend to get in the way of true enlightenment. Luckily, you haven’t lost the true path. Once per story, you can spend a Willpower to remove a Stain from another vampire. The vampire must have sex with you, do drugs with you, or engage in some other hedonistic activity for at least an hour. 2

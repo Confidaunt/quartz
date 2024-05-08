@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: 1444 Chamber
+Requirements: Hecata
+Source: Forbidden Religions
+---
+The 1444 Chamber were once the closest advisors and confidantes to Augustus Giovanni, and the beating, black heart of the Clan of Death’s necromantic might. The more things change, the more they stay the same. It’s the Chamber that leads the clan these nights, not Augustus. Many of his old loyalists met their Final Death to make way for new members rising through the ranks or brought in from the cold with the clan’s formerly disparate splinters; but the 1444 Chamber is still the center of power and influence, even if some of the faces of its members have changed. You’re an agent of the Chamber’s will, somewhere directly on the operations flowchart that cascades down from the so-called Board of Directors. Maybe your sire’s sire sits in the Chamber; maybe you backed one of the up-and-coming bosses in the uprising against their complacent superiors; maybe you’ve just got the talent that the Board looks for in this new age of unity within the clan. Someone up there has invested trust and responsibility in you. Don’t disappoint them.
+
+• Shadow of the Chamber: Other Hecata know that at least one member of the Chamber trusts you to carry out their will — and no one wants to cross one of the ancient monsters who sit at the heart of the Clan of Death’s web. You have the equivalent of two additional dots of Status within the Hecata clan, but only for the purposes of forcing compliance or intimidating other Hecata.
+
+•• Mercenary Work: When outsiders need the Clan of Death’s expertise, you’re a go-between trusted to pursue the Chamber’s agenda. Once per story, you can arrange the mercenary services of your fellow Hecata for a vampire who is not part of your coterie or clan, calling up to three dots in any appropriate Background that represents the mercenaries’ talents.
+
+••• Gilded Promises: If there’s one thing the Hecata aren’t short of, it’s money. If you satisfy the Chamber with your performance, you have access to four dots of Resources. The Clan of Death has little patience for talented students who fail to live up to their promise though; disappoint your patron, and you lose these dots until you make things right.
+
+•••• Deathly Slave: Never forget that the Chamber comprise the most powerful concentration of vampiric necromancers in existence. Once per story, you can request the service of a spectre or another form of wraith, naming a specific task; unless it contravenes your patron’s agenda, they will compel a single such ghost to perform that service for you.
+
+••••• Anziani Patron: You directly serve one of the anziani, and you know that they are on the Board of Directors — making you one of the trusted few they confide in. As their agent in the outside world, you can’t rely on their direct influence to help you on a night-to-night basis, but when the Chamber wills it, the whole Clan of Death moves as one. Once per chronicle, you can call upon your patron to push the 1444 Chamber into action and call all loyal Hecata in the region to your aid regardless of their other priorities, as long as it does not contravene the agenda of your patron or the Chamber. The Chamber will expect you to repay this debt to them.

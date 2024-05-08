@@ -1,0 +1,15 @@
+---
+CeremonyId: 
+Name: Host Spirit
+Level: 3
+Reference: Cults 211
+---
+This Ceremony allows a vampire to open their body to possession by a ghost. 
+
+Prerequisite Power: Aura of Decay 
+
+Ingredients: A gift to be made as tribute to a wraith (whether the wraith values it depends on the individual), a parasitic bug, two teeth extracted from the vampire’s mouth 
+
+Process: The vampire must be in close proximity to a wraith in order to use this power, typically through use of Summon Spirit (see p. XX). The necromancer presents a tribute to the wraith, sometimes in the form of alcohol poured on the wraith’s gravesite, or a bag of coins to be buried in the earth, or even the freshly decapitated head of one of the wraith’s until-recently living enemies. The vampire then pulls two teeth from their mouth, usually with pliers, and bites into a parasite with their remaining teeth. The vampire then opens their mouth and the wraith can choose to jump inside, inhabiting the vampire’s body. The benefits of having a wraith ride one’s body come in the form of an enhanced physique, access to whichever memories the wraith chooses to share, and the wraith’s voice offering the vampire advice. The wraith can take complete possession of the vampire if they wish to, which some necromancers view as a blessing to be experienced, and others deem the main reason not to use this power. Allowing a wraith to control one’s actions for a night is an effective way of confusing and mollifying the Beast, as well as demonstrating physical prowess and knowledges the vampire may not usually possess. 
+
+System: The vampire’s player makes a successful Oblivion Ceremony roll. If the wraith agrees to the proposition, it then enters the vampire’s body and can remain for a number of scenes equal to the successes rolled on the Oblivion Ceremony roll. With the wraith inside them, the vampire gains +2 dice to all Physical Attribute rolls and +2 Health until the wraith departs. The vampire can hear the wraith in their head, with its advice, cajoling, or supportive words provided by the Storyteller. A wraith can choose to assert its possession instead of acting as a passenger. If the vampire resists, they make a Resolve + Composure roll vs. the wraith’s Resolve + Composure. If successful, the wraith’s influence is rejected. If failed, the wraith steers the vampire until the end of the scene, though it can’t make the vampire do anything self-destructive. On a critical win, the wraith is ejected entirely and returns to the Underworld. On a total failure, the wraith can make a vampire harm themself, but returns to the Underworld after the first injury is sustained. A vampire whose body succumbs or is voluntarily opened to the possession attempt finds all Willpower damage healed once the wraith departs, as the spirit subdues the Beast for as long as it is present.

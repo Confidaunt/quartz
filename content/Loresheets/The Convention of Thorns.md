@@ -1,0 +1,18 @@
+---
+LoresheetID: 
+Name: The Convention of Thorns
+Requirements:
+Source: Corebook
+---
+
+You are a scholar of the Convention of Thorns, at which vampires of all clans arranged the formation of the Camarilla. Perhaps you descend from one of the most important participants who spoke up at the convention, voicing their proposals for the new Traditions. Maybe you study this historical period avidly, in search of higher meaning or understanding of the laws that govern Kindred society today. You can recite the names of vampires who attended, the iterations of the Traditions proposed at the convention, and even know some of the hidden proposals between clans that deigned not to join the Camarilla at that time. Knowledge of the Convention of Thorns can still be used to this night to apply pressure to Camarilla and Anarchs alike. 
+
+• Thorns Historian: The Convention of Thorns was a complex, moving beast of diplomacy. Hundreds of small meetings took place between representatives of this clan or that, forging pacts that lasted years, decades, or centuries in some cases. You possess an encyclopedic knowledge of the convention’s minor meetings, and you can call on this knowledge to apply legal pressures on the participants or their descendants, where pacts may still be in force but not practiced or revoked without consent of all parties. Once per story, you can ask the Storyteller for a piece of known information regarding the convention. 
+
+•• Tradition Master: The six Traditions the Camarilla cling to tonight were first codified and agreed upon at the Convention of Thorns. Your knowledge of the convention extends to multiple apocryphal or proposed Traditions, some of which nearly passed. Once per chronicle, you can exercise fringe laws in domains where the ruling clans may still be sympathetic to the unaccepted Traditions of Thorns. Example pseudo-Traditions might include: Kindred in this domain are only permitted one Embrace; all law enforcement is forbidden as feeding stock; combat in Elysium is punishable by Final Death; diablerie is permitted against any Caitiff discovered in this domain; etc. 
+
+••• Convention Secrets: The Ministry declined an invitation to join as the eighth pillar clan; the Lasombra rejected the Camarilla when it refused to acknowledge the existence of Antediluvians. You have uncovered still-more obscure secret proposals from the Convention: the Cappadocian petition to join, the Malkavians’ symbol draft, and more. You can drop enough hints to always take a one-die bonus to Social tests involving Kindred who were present at the convention. You also know a number of major secrets, each worth a Major Boon to some powerful Cainite. Once per story, you can ask the Storyteller for the name of a Kindred who needs your knowledge. 
+
+•••• Prospective Justicar: The Camarilla Justicars first received appointment during the Convention of Thorns. No matter your political allegiance, somehow you (or your sire, if you are far too young) have powerful support to become the next Justicar of your clan. If your clan is not one represented widely in the Camarilla, perhaps this appointment signals a sea change among the sect’s clans. 
+
+••••• New Traditions: Your knowledge of the Convention of Thorns is such that you can compile enough evidence and support to propose a new Tradition, or an amendment to an existing one, to the Camarilla’s Inner Circle. This Tradition may be accepted if it sounds sensible and helps the increasingly strict Camarilla in the world tonight, or it may mark you as a firebrand and danger to the sect. Importantly, your voice will be heard without prior judgment.

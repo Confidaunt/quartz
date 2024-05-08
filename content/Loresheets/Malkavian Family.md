@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Malkavian Family
+Requirements:
+Source: The Chicago Folios
+---
+Being Embraced as a Malkavian in Chicago brings with it an almost instantaneous new family. Many of their number look upon one another as kin: Jason Newberry’s sire considered him like her own son; Bronwyn and Corbin grew up like sisters in their mortal days. While other clans allow their members their autonomy, Son wields his authority as Primogen to micromanage his clanmates’ lives. He hosts mandatory group counselling sessions, which he leads. Attendees bare their souls at his behest, providing information the others could use against them. Son also requires the Malkavians under his control to share territories and havens, giving them little respite from one another. They know one another’s weaknesses the way only a close-knit family can, and Jason Newberry positions himself as their domineering patriarch. These ties have also caused some Malkavians in Chicago to form close bonds. Having many members of the clan in the same territory makes guarding it easier, and when one of their number puts out a call via the Web, chances are someone is close by to answer. Though Son has duped outsiders into thinking he’s an upstanding member of Kindred society, his abuse of power within the clan gives its members someone to unite against, should the time come to get rid of him.
+
+• Family Secrets: Attending Son’s therapy sessions gives you glimpses into your clanmates’ schemes and goals. As careful as most attendees are not to spill everything, over time the shapes of their plans come clear. Gain two dice on an Awareness or Insight roll involving another Malkavian.
+
+•• Sibling Bond: You’ve grown extremely close to another member of your clan, someone who is like a favorite sibling to you. You share a two-dot Haven and a one-dot Herd, and once per story can call on this person for a significant favor. However, they will ask for your assistance in turn and may lay their burdens at your door.
+
+••• Tangled Web: Your frequent contact with other Oracles has heightened your ability to sense and use the Cobweb. Once per story, you may extend your perceptions along it to locate a specific clan member in the city. You may either catch a short glimpse of where they are and who they’re with, or deliver one short sentence (“Meet me at the Blue Velvet,” “A Hound came looking for you.”) into their mind.
+
+•••• A Little Peace and Quiet: With Son constantly forcing you to share space and secrets with other Malkavians, you’ve had to carve out creative ways to get some alone time. Once per story, you may use an Auspex, Dominate, or Obfuscate power you haven’t yet learned (at your current level or below) to hide in plain sight, escape a crowded area, or avoid detection.
+
+••••• Favorite Childe: A respected elder member of the clan has taken a shine to you and appointed themselves your surrogate parent, your favorite aunt or uncle, or doting grandparent. They’re intensely interested in helping you achieve your goals, possibly cloyingly so. Gain them as a five-dot Mawla. Once per story, this person will act as a buffer between you and Son, relieving you of whatever obligation the Primogen was attempting to impose.

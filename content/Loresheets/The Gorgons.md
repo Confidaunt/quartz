@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: The Gorgons
+Requirements:
+Source: Cults of the Blood Gods
+---
+The Lamiae were a bloodline of Kindred believed to be descended from Lilith as well as Caine — their founder and high priestess (named Lamia) claimed to be the daughter of the Dark Mother herself. In ancient times, a Cappadocian elder found Lamia performing sacred Bahari rites, and was so taken by her skin and resistance to pain that he Embraced her. From then on, the Lamiae were dedicated warriors protecting the Cappadocian clan, until the clan’s alleged destruction by the Giovanni. The last Lamia was believed destroyed in 1718. However, the Gorgons lived on, much like their Cappadocian charges. While the latter claimed the title “Harbingers of Skulls,” the Lamiae took the title of “Lilins,” spreading the word of Lilith and the Bahari faith while secretly uncovering the fate of the Cappadocians and undermining the Giovanni. Now, in the wake of the Family Reunion, these women stand proudly once again at the side of the Kindred that Embraced them — although they are less inclined to tolerate so-called “Cainites” that chastise their faith or insult their martial skill.
+
+• The Serpent’s Kiss: For centuries, it was believed the bite of the Lamiae spread disease, a virulent pox like the Black Death (indeed, it might have been the Black Death) that was fatal after a few days. Whether that was true or not, these nights the bite of the Lamiae is no longer fatal, although a few like yourself have some remnants of the disease left in their system. Once per story, you can choose to infect your mortal prey with disease, causing them one Aggravated Health damage every night for three nights. This ability has no effect on vampires.
+
+•• Protection: You embody the original purpose of the Lamiae — the protection of your charges, by any means necessary. You gain a two-dice bonus when using the Block maneuver (see Vampire: The Masquerade, p. 297) to protect someone else.
+
+••• Four Humours: Many ancient Lamiae practice manipulation of the four humors, allowing control over their victim’s body or mind. Once per story you may bite a mortal and inflict a two-dice penalty on all actions which don’t immediately further their current resonance, until the end of the night or their resonance changes humours. If their blood contains a Dyscrasia, increase this penalty to three-dice.
+
+•••• Controlling the Beast: Chaos and pain are key aspects of the Bahari faith (and, thus, the faith of many Lamiae). However, mindless chaos and pain do not lead to education, so controlling accidental infliction of both is important. Once per session, you can convert a messy critical in combat into a critical.
+
+••••• Medusa’s Gaze: It was long believed that the nickname of “Gorgons” was given to the Lamiae for their terrifying prowess and allegedly disease-ridden blood. But those members most steeped in the bloodline’s mysteries hold a private power that betrays a more literal meaning behind their epithet than many realize. Once per session after you win an Intimidation or conflict roll, those who lost become unable to act on the following conflict turn. Outside of combat, they become unable to move for a scene unless they 2

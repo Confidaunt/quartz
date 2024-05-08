@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Fiorenza Savona
+Requirements:
+Source: Camarilla
+---
+When the Lasombra reasserted control over their old religious power centers, the Ventrue responded by expanding their influence in the new nobility: government and multinational corporations. With global political pull, Fiorenza Savona keeps the clan relevant and dangerous – at the center of global power. Hard-nosed and unafraid to tell another vampire to take a running jump, Fiorenza worked hard as a mortal and continues to do so as a Kindred to ensure that wealthy and powerful vampires remain in their positions. Moving up through NGOs and the UN, she knows everyone worth controlling in the Davos elite. Her sire targeted her for her contacts list and discovered her Machiavellian political and business acumen. A fresh power player in the Camarilla, many elders and ancillae consider her a mere “new money” Ventrue. Their wiser clanmates know her actions sway councils, corporations, and individual mortals possessing real power. Where her predecessors focused on vampire politics, Fiorenza believes the key to Kindred longevity lies in the manipulation of the living. 
+
+• On Fiorenza’s List: Fiorenza knows who you are, which either means she thinks you’re an asset to the clan or a problem. Consequently, she has assigned a Gifted mor tal (p. 185) Retainer – bodyguard, driver, butler, etc. – to you, though they remain in her employ. They make no secret of spying on you and reporting back to Fiorenza, and they never drift far, even if dismissed. If the mortal is harmed or killed, Fiorenza makes a note that you’re not to be trusted, but if your conduct is good, you move further into her good graces. 
+
+•• Breakfast with Fiorenza: Despite her high-profile role, once per story Fiorenza will make a space in her busy schedule to meet with you. Maybe you have dirt on her or perhaps you are close friends. A meeting with Fiorenza can be lucrative and informative, if you ask her the right questions. 
+
+••• Friendly Benefits: You were close to Fiorenza before she became "the next big thing" in Clan Ventrue, and this friendship pays dividends: she can smooth over ruffled Ventrue, provide you with insider trading tips, loan a Gulfstream equipped with polarized windows and pre-cleared flight plans, etc. If you overuse or misuse this connection, the equivalent of a three-dot Mawla ( ), she cuts you off without hesitation. 
+
+•••• The Directorate: The shadowy Ventrue Directorate approached you. Concerned about Fiorenza’s meteoric rise, they chose you to approach her, suborn her, and break her to their will. If you accept, you submit to a Blood Bond and have your memories of the Directorate’s identities erased – but you receive six dots to select from among Contacts, Mawla, and Resources. Of course, you could approach Fiorenza and offer to work as her double agent. 
+
+••••• Government Motion: Fiorenza owes you a favor – once per chronicle, she agrees to influence a mortal political leader as you request. Her suggestions equal five dice to distribute as you like among any roll involving government action. If you create a major political disturbance or otherwise act to reinforce Fiorenza’s “suggestions,” the Storyteller may add other dice based on your plan and on how well you succeed at it. 

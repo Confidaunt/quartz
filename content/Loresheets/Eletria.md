@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Eletria
+Requirements:
+Source: Let the Streets Run Red
+---
+Eletria occupied an unassuming position among Chicago’s Kindred for decades prior to her recent disappearance. Few understood the immense power hidden behind the quiet strength of the enigmatic vampire that dotingly watched over “Portia” all those nights. Fewer still realize that Eletria was once Prince of Veracruz and one of the most talented artists in history. Born of Sparta, reborn of Helena, Eletria travelled the world, drowning herself in life’s myriad pleasures and always returned panting for more. Painting, sculpture, and music came effortlessly to her. The Kindred of Veracruz bent their knees to her will and were better for her presence. Her very passions conquered the hearts of all who met her, ensnaring Lodin’s sire, Datura, then Lodin himself, loving and losing both in the process. Her presence in Chicago had the potential to change everything, but in the end, she changed you. You knew Eletria. It might have been Chicago, Veracruz, or someplace more distant still, but you knew her. Lover, friend, subject, or slave: Her presence haunts you to this day 
+
+• Muse: Eletria saw great potential in you and fanned the embers of your talent. All Craft (Painting or Sculpture) or Performance (Music) tests have their difficulty reduced by one.
+
+•• Portrait of a Woman: Eletria entrusted you with a rare and precious piece of art of deep importance to her. It could be her cherished portrait of Datura on the cliffs of Veracruz or another painting, sculpture, or piece of music created by her hand. Granting you this piece is a sign of her deepest trust and contains an almost literal part of her soul. Once per chapter, you can spend an hour meditating upon this piece and make a Resolve + Craft (Painting or Sculpture) or Performance (Music) test at Difficulty 4 before resting for the day. If successful, you awaken having recovered all Superficial Willpower damage.
+
+••• This is Sparta: You served under Eletria in Veracruz during her war against the Sabbat or fought by her side during the War of Chicago. You gain oa bonus die to all Investigation, Academics, and Occult rolls related to defending your city against hostile sect incursions.
+
+•••• Ageless Beauty: You shared blood with Eletria and inherited a measure of her ability to see the past. You can see a person as they were at any point in their life (or unlife). If artistically inclined, you can render Kindred as they appeared centuries ago with shocking accuracy. Make a Wits or Resolve + Auspex test (difficulty assigned by Storyteller depending on how far back you attempt to see). Success means you have captured a photographic image of the subject in your mind with perfect accuracy and gain two bonus dice to your relevant Craft test to replicate it. This ability can be used once per session.
+
+••••• Conspicuous Consumption: Your search for Eletria leads to Helena. You become part of the circle of vampires used to slake her thirst and keep the Beckoning at bay. This arrangement is not without its benefits, as you gain five dots to distribute between Mawla, Resources, Allies, Herd, and Contacts. You also have access to Helena once per story, although she has compelled you not to reveal her presence. If lucky, your perilous association may reveal Eletria’s fate.

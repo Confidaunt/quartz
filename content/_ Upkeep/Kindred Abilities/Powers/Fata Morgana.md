@@ -1,0 +1,17 @@
+---
+PowerId: 
+Name: Fata Morgana
+Discipline: Obfuscate
+Level: 3
+Dice Pool: Manipulation + Obfuscate
+Reference: PG 77
+---
+Amalgam: Presence 2 
+
+The vampire can craft elaborate hallucinations, making any subjects in their vicinity see, hear, and feel whatever the user can devise. From seeing and tasting a takeout container filled with maggots and rice to a thunderous torrent of reeking, rancid blood boiling out of the sewers, Fata Morgana causes witnesses to experience circumstances that just aren’t real. There is no limit to the number of victims who can be affected simultaneously, but in order to be affected by Fata Morgana a subject needs to be able to see the user or vice versa, though they do not need to be actively aware of them. The vampire does not need to remain present once a victim is affected. Visual effects are always separate objects. They cannot be used to “mask” or otherwise disguise items or individuals, and can never entirely block line of sight. Fata Morgana hallucinations cannot appear to affect the surrounding reality: The torrent of blood won’t wash away cars parked in the street or pedestrians, and an explosion created with Fata Morgana does not cause any damage, hallucinatory or otherwise. A collapsing staircase won’t tumble anyone currently descending the staircase. Sensory effects created by Fata Morgana cannot blind or deafen or in other ways overload senses, not even those supernaturally augmented. Similarly, hallucinations are not caught on camera or other kinds of recording devices. 
+
+Cost: One Rouse Check Dice Pool: Manipulation + Obfuscate 
+
+System: The user makes a Manipulation + Obfuscate test against a Difficulty equal to one plus the number of senses the hallucination targets. (An audio-visual hallucination would thus be Difficulty 3, while a complete five-sensory experience would be Difficulty 6.) The easiest visual hallucinations to create are fairly small or discreet — increase the Difficulty by one for room-sized hallucinations, two for house-sized hallucinations, and so on. Further complications may add additional Difficulty at the Storyteller’s discretion. Any attempt to mimic the appearance of a specific individual or in other ways deceive can require additional Performance or Subterfuge tests as appropriate. Vampires and other supernatural creatures have a chance to disbelieve the hallucination, but mortals can do this only if they have reason to suspect it to be fake. In both cases they roll Intelligence + Awareness against the user’s Manipulation + Presence. A success means that the individual in question is no longer affected by the hallucination, and it effectively disappears for them. Any attempt to interact with the hallucination also causes it to lapse entirely, as everyone present becomes aware of its unreal nature (as with the collapsing staircase example, if someone is using the staircase). Note that the use of this power is not overt, so even if the hallucination is revealed, it is not obvious from whom it originated. These hallucinations can never be recorded or transmitted (such as by using Ghost in the Machine). If the hallucination could cause Frenzy or similar reactions in its targets, apply the same test at a Difficulty of one lower than the real thing. 
+
+Duration: One scene, unless the vampire chooses to let it lapse before that.

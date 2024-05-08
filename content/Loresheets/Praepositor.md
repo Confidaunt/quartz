@@ -1,0 +1,17 @@
+---
+LoresheetID: 
+Name: Praepositor
+Requirements:
+Source: Forbidden Religions
+---
+You’re a Praepositor, one of the militant Tremere of the Praesidium devoted to restoring the clan’s old power — by force, if necessary. The cult looks back to the Pyramid of authority and blood that once united Clan Tremere as the ideal to which they must once again aspire, but the realities of the modern nights demand that they adapt if they are to achieve this goal. Praepositors have become eldritch soldiers of fortune, trading their services for the occult and secular resources the House needs. House and clan need you, and you stand ready to answer their call. Your every success reinforces Praesidium’s position within the Camarilla, but Praepositors aren’t picky; your superiors expect you to take up contracts with Anarchs or even in domains of Autarkis, if it serves the cult’s purposes. As for the old Blood Bonds that once tied the clan together, the Praesidium sees their restoration as one of its end goals — and expects you to act with the same devotion and swiftness as those bonds once assured.
+
+• Chastise the Wayward: You embrace the cult’s ideology of war against those who oppose the clan — including the renegades within the Tremere. You may reroll a single die in any dice pool to cause direct harm to another Tremere character if you believe them to be a renegade.
+
+•• Discreet Professionalism: You’ve been at the cutting edge of Praesidium efforts to build a network of clients and contracts that will prop up a reinvigorated Clan Tremere. Once per story, you can draw on favors due or debts yet to be paid to acquire two dots in Status with any sect or clan for a single interaction. You can expect the person you leverage to want something in return for their assistance in the next story, if not before.
+
+••• Guard the Clan: You joined this cult because you wanted to rebuild and protect what had gone before. Whenever you Rouse the Blood to protect your clan’s members and secrets, you may roll two dice and pick the highest result.
+
+•••• Expert Security: You’re one of the cult’s top experts in security and protection and have a team of Praepositor specialists on speed-dial. Once per story, you can spend a scene establishing a safehouse or strong-point to grant yourself or another character up to five dots of Haven that lasts until the end of the scene. This Lore drains the use of three dots of Resources for the remainder of the story, requiring you to obtain outside funding if you do not possess these dots yourself.
+
+••••• Blood Loyalty: The Praesidium’s early experiments to rebuild the clan’s Blood Bond have borne unexpected discoveries — mere shadows of a true bond but, perhaps, more useful in the House’s current state. If you and another participant (mortal or vampire) signs a contract you write using their blood or vitae, you must make one Rouse Check per level of Blood Bond you intend to initiate. Once signed, treat the contracted service as if the co-signee was Blood Bound to it; to attempt to breach the contract, they must succeed in a contest of Resolve + Intelligence vs. Bond Strength. Once the contract is complete or you destroy the contract, the simulated Blood Bond immediately ends.

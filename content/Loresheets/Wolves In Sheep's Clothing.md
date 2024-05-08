@@ -1,0 +1,21 @@
+---
+LoresheetID: 
+Name: Wolves In Sheep's Clothing
+Requirements:
+Source: Winter's Teeth
+---
+Discarded and disenfranchised ghouls forming themselves into confederations and cults is no new phenomenon. Animosity between servant and master in a tale as old as the practice of servitude itself, and woe to the vampire who carelessly abuse his faithful retainer. More than one city in the modern nights are plagued with bands of independent ghouls, stalking their former domitors to feast upon the vitae that fuels their unearthly addiction -- using the gifts bestowed upon them to bite the hand that feeds.
+
+Though this practice is hardly novel, the cabal that calls itself the Wolves in Sheep's Clothing has personalized this poetic justice in the unique and perverse ways. The Wolves use their augmented blood coupled with a strange and blasphemous form of mortal Hedge Magic, to technomantically graft preserved kindred body parts onto themselves. By harvesting, say, the eyes of a Kindred, they may, in turn, temporarily harness a semblance of that Kindred's ability to control the minds of others through eye-contact, or to see into the depths of the soul.
+
+No one truly knows from where these reprehensible mongrels first gained their taste of vitae, (though their passing familiarity with some form of necromancy implies a possible connection to a certain family of the Hecata) and any Kindred found responsible for such a blunder would surely find themselves upon the Red List. It is only their relatively small number and covert activities that keep them from being perceived as a bigger threat - instead, they are merely another faction of dangerous mortals to watch for in the modern nights. 
+
+• What Big Teeth You Have! As their names suggest, the Wolves in Sheep's Clothing are deadly simply because, as ghouled mortals, Kindred have a tendency to underestimate them - allowing them to get in close enough to strike with lethal precision. You have learned to recognize the tell-tale signs of these abominations as your Beast instinctively finds itself agitated around these callous usurpers.
+
+•• Huntsman: You have engaged in a deadly game of cat-and-mouse with the Wolves in Sheep's Clothing for years. The lines between predator and prey have become blurred as you seek out these deadly foes while simultaneously ensuring your own safety during daylight hours. You gain an extra die to all Investigation rolls made to track down or investigate the Wolves in Sheep's Clothing, in addition to gaining as extra die to all rolls made to act during the daytime. 
+
+••• Carrion Preservation: You have managed to replicate the way in which the Wolves harvest vampiric body parts without them immediately decaying into dust. While you are certain to not gain the benefits they do by grafting such parts onto yourself, such a talent can nevertheless prove useful when it comes to preserving evidence, or grisly keepsakes. By dousing the organ or extremity in one Rouse Check's worth of vitae and succeeding at a  Resolve + Occult roll (diff 3), the vampire may embalm the object for a year, at which time the preservation needs to be renewed. Final Death of the caster, however, immediately renders this preservation null.
+
+•••• A Wolf in the Fold: You have been victimized by the Wolves in Sheep's Clothing, though have managed to escape. To this night, some up-jumped ghoul stalks the streets, wielding pieces of your body as their own. While this may serve them for now, you have managed to turn this plunder into a Trojan Horse. Once per Chronicle, you may attempt to inhabit the perception of your assailant as per the Auspex power Share the Senses(using Resolve + Insight.) Should you already possess Share the Senses, you instead reduce the difficulty of the roll by two.
+
+••••• The Shepard: You have made yourself a mysterious benefactor to the Wolves in Sheep's Clothing to such a degree that they have become your loyal, if ignorant, hounds. You gain Allies ( ) representing a cell of these redoubtable ghouls. Once per Chronicle, you ay send this cell to dispatch a Kindred enemy. However, should the Wolves discover your true nature, said Allies may very easily become Enemies( ) instead, not to mention any objections your local Camarilla may take to those who willingly aid and abet anathemas such as these.

@@ -1,0 +1,6 @@
+---
+RitualId: 
+Name: 
+Level: 
+Reference: 
+---
